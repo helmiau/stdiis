@@ -1,5 +1,5 @@
 ### Kumpulan Materi PDF Perkuliahan STDI Imam Syafi'i Jember
-Daftar Isi
+**Daftar Isi**
 
 - [Database Akademik](#database-akademik)
 - [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
@@ -22,6 +22,7 @@ Daftar Isi
 - [Akhwal Syakhsiyyah Semester 8](#akhwal-syakhsiyyah-semester-8)
 - [Tahfidz](#tahfidz)
 - [TOAFL](#toafl)
+
 ***
 
 
@@ -56,6 +57,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Idad Lughawi A - Persiapan Bahasa Pemula
@@ -74,6 +76,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Idad Lughawi B - Persiapan Bahasa Lanjutan
@@ -92,6 +95,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 1
@@ -110,6 +114,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 2
@@ -128,6 +133,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 3
@@ -146,6 +152,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 4
@@ -164,6 +171,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 5
@@ -182,6 +190,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 6
@@ -200,6 +209,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 7
@@ -218,6 +228,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Ilmu Hadits Semester 8
@@ -236,6 +247,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 1
@@ -254,6 +266,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 2
@@ -272,6 +285,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 3
@@ -290,6 +304,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 4
@@ -308,6 +323,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 5
@@ -326,6 +342,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 6
@@ -344,6 +361,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 7
@@ -362,6 +380,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Akhwal Syakhsiyyah Semester 8
@@ -380,6 +399,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### Tahfidz
@@ -398,6 +418,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 ### TOAFL
@@ -416,6 +437,7 @@ Daftar Isi
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
 ***
 
 <br>
