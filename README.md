@@ -1,6 +1,7 @@
 ### Kumpulan Materi PDF Perkuliahan STDI Imam Syafi'i Jember
 Daftar Isi
 
+- [Database Akademik](#database-akademik)
 - [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
 - [Idad Lughawi B - Persiapan Bahasa Lanjutan](#idad-lughawi-b---persiapan-bahasa-lanjutan)
 - [Ilmu Hadits Semester 1](#ilmu-hadits-semester-1)
@@ -21,9 +22,41 @@ Daftar Isi
 - [Akhwal Syakhsiyyah Semester 8](#akhwal-syakhsiyyah-semester-8)
 - [Tahfidz](#tahfidz)
 - [TOAFL](#toafl)
+***
 
 
 <br>
+
+### Database Akademik
+
+- Sisita STDIIS
+  > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, coba salah satu link dibawah ini :
+  > - [Sisita Ac.ID](https://https://sisita.stdiis.ac.id/)
+  > - [Sisita Net](https://sisita.stdiis.net)
+
+- [eLearning STDIIS](https://elearning.stdiis.com/)
+  > eLearning merupakan situs yang berisi daftar mata kuliah STDI Imam Syafi'i Jember.
+
+- [Asrama Mahasiswa STDI Imam Syafi'i Jember](http://mhs.stdiis.ac.id/)
+  > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, coba salah satu link dibawah ini :
+
+- Informasi Telegram
+  > - [Grup Mahasiswa STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswi STDIIS Jember](http://www.helmiau.com)
+  > - [Channel Info STDIIS Jember](http://www.helmiau.com)
+
+- Kalender Pendidikan
+  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
+
+- Jadwal UAS 2021
+  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
+
+- Jadwal Perkuliahan 2021
+  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
+
+***
+[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+***
 
 ### Idad Lughawi A - Persiapan Bahasa Pemula
 
@@ -39,8 +72,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Idad Lughawi B - Persiapan Bahasa Lanjutan
 
@@ -56,10 +90,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 1
 
@@ -75,10 +108,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 2
 
@@ -94,10 +126,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 3
 
@@ -113,10 +144,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 4
 
@@ -132,10 +162,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 5
 
@@ -151,10 +180,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 6
 
@@ -170,10 +198,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 7
 
@@ -189,10 +216,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Ilmu Hadits Semester 8
 
@@ -208,10 +234,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 1
 
@@ -227,10 +252,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 2
 
@@ -246,10 +270,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 3
 
@@ -265,10 +288,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 4
 
@@ -284,10 +306,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 5
 
@@ -303,10 +324,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 6
 
@@ -322,10 +342,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 7
 
@@ -341,10 +360,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Akhwal Syakhsiyyah Semester 8
 
@@ -360,10 +378,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### Tahfidz
 
@@ -379,10 +396,9 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
 
 ### TOAFL
 
@@ -398,10 +414,10 @@ Daftar Isi
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
-
+***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
-<br>
+***
+
 <br>
 <br>
 
@@ -418,4 +434,4 @@ Daftar Isi
 > - Fulan
 > - Fulan
 
-<h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan! 🤝</h5>
+<h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan!<br>🤝</h5>
