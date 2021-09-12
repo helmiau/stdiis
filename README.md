@@ -65,16 +65,28 @@
 
 - Telegram Channel Informasi Akademik
   > Berisi tentang berbagai informasi terbaru seputar perkuliahan di STDI Imam Syafi'i Jember.
+  > 
   > [Ikuti channel](https://t.me/akademik_stdiis).
 
 - Kalender Pendidikan
   > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com) - [Download File APK](https://t.me/akademik_stdiis/372)
 
 - Jadwal UAS 2021
-  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
+  > [Unduh File PDF](/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf) - [Lihat Secara Online](http://www.helmiau.com)
+
+
+<object data="/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 - Jadwal Perkuliahan 2021
-  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf) - [Lihat Secara Online](http://www.helmiau.com)
+
+- Sistem Informasi Kemahasiswaan dan Keasramaan
+  > [Unduh File](https://t.me/akademik_stdiis/356) - [Lihat Secara Online](http://www.helmiau.com)
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
