@@ -1,6 +1,5 @@
 ### Kumpulan Materi PDF Perkuliahan STDI Imam Syafi'i Jember
 **Daftar Isi**
-
 - [Database Akademik](#database-akademik)
 - [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
 - [Idad Lughawi B - Persiapan Bahasa Lanjutan](#idad-lughawi-b---persiapan-bahasa-lanjutan)
@@ -25,6 +24,12 @@
 
 ***
 
+- [File Lainnya](#file-lainnya)
+- [Kontributor](#kontributor)
+- [Mau ikut kontribusi ?](#kontributor)
+
+***
+
 
 <br>
 
@@ -42,9 +47,21 @@
   > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, coba salah satu link dibawah ini :
 
 - Informasi Telegram
+  > Grup Mahasiswa
   > - [Grup Mahasiswa STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswa Idad Lughawi Pemula STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswa Idad Lughawi Lanjutan STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswa Ilmu Hadits STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswa Akhwal Syakhsiyyah STDIIS Jember](http://www.helmiau.com)
+
+  > Grup Mahasiswi
   > - [Grup Mahasiswi STDIIS Jember](http://www.helmiau.com)
-  > - [Channel Info STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswi Idad Lughawi Pemula STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswi Idad Lughawi Lanjutan STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswi Ilmu Hadits STDIIS Jember](http://www.helmiau.com)
+  > - [Grup Mahasiswi Akhwal Syakhsiyyah STDIIS Jember](http://www.helmiau.com)
+
+  > [Channel Info STDIIS Jember](http://www.helmiau.com)
 
 - Kalender Pendidikan
   > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
@@ -440,20 +457,38 @@
 
 ***
 
-<br>
-<br>
+### File Lainnya
 
-<h5 align="center">Credits</h5>
+- (AS8210) File A - *[Unduh File](http://www.helmiau.com)*
+  > Diampu oleh **Ust. Fulan**
+  > - Keterangan Pelajaran
 
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
-> - Fulan
+- (AS8211) File B - *[Unduh File](http://www.helmiau.com)*
+  > Diampu oleh **Ust. Fulan**
+  > - Keterangan Pelajaran
+
+- (AS8212) Pedoman C - *[Unduh File](http://www.helmiau.com)*
+  > Diampu oleh **Ust. Fulan**
+  > - Keterangan Pelajaran
+
+***
+[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+
+***
+
+
+<h3 align="center">Kontributor</h3>
+
+- Helmi Amirudin
+- Mbah Google
+- Maktabah Syameelah
+- Fulan
+- Fulan
+- Fulan
+- Fulan
+- Fulan
+
+Ingin berkontribusi ?
+
 
 <h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan!<br>🤝</h5>
