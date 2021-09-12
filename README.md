@@ -30,9 +30,9 @@ Daftar Isi
 ### Database Akademik
 
 - Sisita STDIIS
-  > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, coba salah satu link dibawah ini :
-  > - [Sisita Ac.ID](https://https://sisita.stdiis.ac.id/)
-  > - [Sisita Net](https://sisita.stdiis.net)
+  > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, gunakan salah satu link dibawah ini jika yang link lainnya tidak tersedia :
+  > - [Sisita Ac.ID](https://sisita.stdiis.ac.id/)
+  > - [Sisita Net](https://sisita.stdiis.net/)
 
 - [eLearning STDIIS](https://elearning.stdiis.com/)
   > eLearning merupakan situs yang berisi daftar mata kuliah STDI Imam Syafi'i Jember.
