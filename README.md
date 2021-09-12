@@ -1,24 +1,24 @@
 ### Kumpulan Materi PDF Perkuliahan STDI Imam Syafi'i Jember
-- [Idad Lughawi A - Persiapan Bahasa Pemula](http://link.me)
-- [Idad Lughawi B - Persiapan Bahasa Lanjutan](http://link.me)
-- [Semester 1 Ilmu Hadits](http://link.me)
-- [Semester 2 Ilmu Hadits](http://link.me)
-- [Semester 3 Ilmu Hadits](http://link.me)
-- [Semester 4 Ilmu Hadits](http://link.me)
-- [Semester 5 Ilmu Hadits](http://link.me)
-- [Semester 6 Ilmu Hadits](http://link.me)
-- [Semester 7 Ilmu Hadits](http://link.me)
-- [Semester 8 Ilmu Hadits](http://link.me)
-- [Semester 1 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 2 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 3 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 4 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 5 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 6 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 7 Akhwal Syakhsiyyah](http://link.me)
-- [Semester 8 Akhwal Syakhsiyyah](http://link.me)
-- [Tahfidz](http://link.me)
-- [TOAFL](http://link.me)
+- [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
+- [Idad Lughawi B - Persiapan Bahasa Lanjutan](#idad-lughawi-b---persiapan-bahasa-lanjutan)
+- [Semester 1 Ilmu Hadits](#semester-1-ilmu-hadits)
+- [Semester 2 Ilmu Hadits](#semester-2-ilmu-hadits)
+- [Semester 3 Ilmu Hadits](#semester-3-ilmu-hadits)
+- [Semester 4 Ilmu Hadits](#semester-4-ilmu-hadits)
+- [Semester 5 Ilmu Hadits](#semester-5-ilmu-hadits)
+- [Semester 6 Ilmu Hadits](#semester-6-ilmu-hadits)
+- [Semester 7 Ilmu Hadits](#semester-7-ilmu-hadits)
+- [Semester 8 Ilmu Hadits](#semester-8-ilmu-hadits)
+- [Semester 1 Akhwal Syakhsiyyah](#semester-1-akhwal-syakhsiyyah)
+- [Semester 2 Akhwal Syakhsiyyah](#semester-2-akhwal-syakhsiyyah)
+- [Semester 3 Akhwal Syakhsiyyah](#semester-3-akhwal-syakhsiyyah)
+- [Semester 4 Akhwal Syakhsiyyah](#semester-4-akhwal-syakhsiyyah)
+- [Semester 5 Akhwal Syakhsiyyah](#semester-5-akhwal-syakhsiyyah)
+- [Semester 6 Akhwal Syakhsiyyah](#semester-6-akhwal-syakhsiyyah)
+- [Semester 7 Akhwal Syakhsiyyah](#semester-7-akhwal-syakhsiyyah)
+- [Semester 8 Akhwal Syakhsiyyah](#semester-8-akhwal-syakhsiyyah)
+- [Tahfidz](#tahfidz)
+- [TOAFL](#toafl)
 
 
 <br>
@@ -37,7 +37,7 @@
   > Diampu oleh **Ust. Fulan**
   > - Keterangan Pelajaran
 
-
+[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
 ### Idad Lughawi B - Persiapan Bahasa Lanjutan
