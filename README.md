@@ -37,14 +37,16 @@
 
 - Sisita STDIIS
   > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, gunakan salah satu link dibawah ini jika yang link lainnya tidak tersedia :
-  > - [Sisita Ac.ID](https://sisita.stdiis.ac.id/)
-  > - [Sisita Net](https://sisita.stdiis.net/)
+  > - [Sisita Ac.ID](https://sisita.stdiis.ac.id/) - sudah tidak di perbarui.
+  > - [Sisita Net](https://sisita.stdiis.net/) - terbaru & direkomendasikan.
 
-- [eLearning STDIIS](https://elearning.stdiis.com/)
+- eLearning STDIIS
   > eLearning merupakan situs yang berisi daftar mata kuliah STDI Imam Syafi'i Jember.
+  > - [Situs eLearning STDIIS](https://elearning.stdiis.com/)
+  > - [Unduh aplikasi eLearning STDIIS untuk Android](https://t.me/akademik_stdiis/369)
 
 - [Asrama Mahasiswa STDI Imam Syafi'i Jember](http://mhs.stdiis.ac.id/)
-  > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, coba salah satu link dibawah ini :
+  > Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
 
 - Informasi Telegram
   > Grup Mahasiswa
@@ -61,10 +63,13 @@
   > - [Grup Mahasiswi Ilmu Hadits STDIIS Jember](http://www.helmiau.com)
   > - [Grup Mahasiswi Akhwal Syakhsiyyah STDIIS Jember](http://www.helmiau.com)
 
-  > [Channel Info STDIIS Jember](http://www.helmiau.com)
+- [Telegram Channel Informasi Akademik](https://t.me/akademik_stdiis)
+  > Berisi tentang berbagai informasi terbaru seputar perkuliahan di STDI Imam Syafi'i Jember.
+
+<br><iframe id="preview" style="border:0px;height:500px;width:70vw;margin:5px;box-shadow: 0 0 16px 3px rgba(0,0,0,.2);" src="https://xn--r1a.website/s/akademik_stdiis"></iframe><br>
 
 - Kalender Pendidikan
-  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
+  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com) - [Download File APK](https://t.me/akademik_stdiis/372)
 
 - Jadwal UAS 2021
   > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com)
@@ -479,16 +484,12 @@
 
 <h3 align="center">Kontributor</h3>
 
-- Helmi Amirudin
+- Allah Ta'ala
 - Mbah Google
-- Maktabah Syameelah
-- Fulan
-- Fulan
-- Fulan
-- Fulan
-- Fulan
+- Mbah GitHub
+- Helmi Amirudin
 
-Ingin berkontribusi ?
+Ingin berkontribusi ? silahkan klik [link ini](https://github.com/helmiau/stdiis/wiki/Wiki-Kumpulan-Materi-Perkuliahan-STDI-Imam-Syafi'i-Jember) untuk informasi selanjutnya.
 
 
 <h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan!<br>🤝</h5>
