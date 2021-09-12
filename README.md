@@ -1,23 +1,24 @@
 ### Kumpulan Materi PDF Perkuliahan STDI Imam Syafi'i Jember
 Daftar Isi
+
 - [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
 - [Idad Lughawi B - Persiapan Bahasa Lanjutan](#idad-lughawi-b---persiapan-bahasa-lanjutan)
-- [Semester 1 Ilmu Hadits](#semester-1-ilmu-hadits)
-- [Semester 2 Ilmu Hadits](#semester-2-ilmu-hadits)
-- [Semester 3 Ilmu Hadits](#semester-3-ilmu-hadits)
-- [Semester 4 Ilmu Hadits](#semester-4-ilmu-hadits)
-- [Semester 5 Ilmu Hadits](#semester-5-ilmu-hadits)
-- [Semester 6 Ilmu Hadits](#semester-6-ilmu-hadits)
-- [Semester 7 Ilmu Hadits](#semester-7-ilmu-hadits)
-- [Semester 8 Ilmu Hadits](#semester-8-ilmu-hadits)
-- [Semester 1 Akhwal Syakhsiyyah](#semester-1-akhwal-syakhsiyyah)
-- [Semester 2 Akhwal Syakhsiyyah](#semester-2-akhwal-syakhsiyyah)
-- [Semester 3 Akhwal Syakhsiyyah](#semester-3-akhwal-syakhsiyyah)
-- [Semester 4 Akhwal Syakhsiyyah](#semester-4-akhwal-syakhsiyyah)
-- [Semester 5 Akhwal Syakhsiyyah](#semester-5-akhwal-syakhsiyyah)
-- [Semester 6 Akhwal Syakhsiyyah](#semester-6-akhwal-syakhsiyyah)
-- [Semester 7 Akhwal Syakhsiyyah](#semester-7-akhwal-syakhsiyyah)
-- [Semester 8 Akhwal Syakhsiyyah](#semester-8-akhwal-syakhsiyyah)
+- [Ilmu Hadits Semester 1](#ilmu-hadits-semester-1)
+- [Ilmu Hadits Semester 2](#ilmu-hadits-semester-2)
+- [Ilmu Hadits Semester 3](#ilmu-hadits-semester-3)
+- [Ilmu Hadits Semester 4](#ilmu-hadits-semester-4)
+- [Ilmu Hadits Semester 5](#ilmu-hadits-semester-5)
+- [Ilmu Hadits Semester 6](#ilmu-hadits-semester-6)
+- [Ilmu Hadits Semester 7](#ilmu-hadits-semester-7)
+- [Ilmu Hadits Semester 8](#ilmu-hadits-semester-8)
+- [Akhwal Syakhsiyyah Semester 1](#akhwal-syakhsiyyah-semester-1)
+- [Akhwal Syakhsiyyah Semester 2](#akhwal-syakhsiyyah-semester-2)
+- [Akhwal Syakhsiyyah Semester 3](#akhwal-syakhsiyyah-semester-3)
+- [Akhwal Syakhsiyyah Semester 4](#akhwal-syakhsiyyah-semester-4)
+- [Akhwal Syakhsiyyah Semester 5](#akhwal-syakhsiyyah-semester-5)
+- [Akhwal Syakhsiyyah Semester 6](#akhwal-syakhsiyyah-semester-6)
+- [Akhwal Syakhsiyyah Semester 7](#akhwal-syakhsiyyah-semester-7)
+- [Akhwal Syakhsiyyah Semester 8](#akhwal-syakhsiyyah-semester-8)
 - [Tahfidz](#tahfidz)
 - [TOAFL](#toafl)
 
@@ -60,7 +61,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 1 Ilmu Hadits
+### Ilmu Hadits Semester 1
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -79,7 +80,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 2 Ilmu Hadits
+### Ilmu Hadits Semester 2
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -98,7 +99,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 3 Ilmu Hadits
+### Ilmu Hadits Semester 3
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -117,7 +118,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 4 Ilmu Hadits
+### Ilmu Hadits Semester 4
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -136,7 +137,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 5 Ilmu Hadits
+### Ilmu Hadits Semester 5
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -155,7 +156,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 6 Ilmu Hadits
+### Ilmu Hadits Semester 6
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -174,7 +175,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 7 Ilmu Hadits
+### Ilmu Hadits Semester 7
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -193,7 +194,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 8 Ilmu Hadits
+### Ilmu Hadits Semester 8
 
 - (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -212,7 +213,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 1 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 1
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -231,7 +232,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 2 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 2
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -250,7 +251,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 3 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 3
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -269,7 +270,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 4 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 4
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -288,7 +289,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 5 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 5
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -307,7 +308,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 6 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 6
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -326,7 +327,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 7 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 7
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -345,7 +346,7 @@ Daftar Isi
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
 <br>
 
-### Semester 8 Akhwal Syakhsiyyah
+### Akhwal Syakhsiyyah Semester 8
 
 - (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
   > Diampu oleh **Ust. Fulan**
@@ -417,4 +418,4 @@ Daftar Isi
 > - Fulan
 > - Fulan
 
-<h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br> Terima Kasih, Jazakumullah khairan! 🤝</h5>
+<h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan! 🤝</h5>
