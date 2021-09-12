@@ -1,4 +1,4 @@
-### Kumpulan Materi PDF Perkuliahan STDI Imam Syafi'i Jember
+### Kumpulan Materi Perkuliahan STDI Imam Syafi'i Jember
 **Daftar Isi**
 - [Database Akademik](#database-akademik)
 - [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
@@ -63,10 +63,9 @@
   > - [Grup Mahasiswi Ilmu Hadits STDIIS Jember](http://www.helmiau.com)
   > - [Grup Mahasiswi Akhwal Syakhsiyyah STDIIS Jember](http://www.helmiau.com)
 
-- [Telegram Channel Informasi Akademik](https://t.me/akademik_stdiis)
+- Telegram Channel Informasi Akademik
   > Berisi tentang berbagai informasi terbaru seputar perkuliahan di STDI Imam Syafi'i Jember.
-
-<br><iframe id="preview" style="border:0px;height:500px;width:70vw;margin:5px;box-shadow: 0 0 16px 3px rgba(0,0,0,.2);" src="https://xn--r1a.website/s/akademik_stdiis"></iframe><br>
+  > [Ikuti channel](https://t.me/akademik_stdiis).
 
 - Kalender Pendidikan
   > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com) - [Download File APK](https://t.me/akademik_stdiis/372)
