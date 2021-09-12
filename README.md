@@ -72,12 +72,12 @@
   > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com) - [Download File APK](https://t.me/akademik_stdiis/372)
 
 - Jadwal UAS 2021
-  > [Unduh File PDF](/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf) - [Lihat Secara Online](http://www.helmiau.com)
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf) - [Lihat Secara Online](http://www.helmiau.com)
 
 
-<object data="/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">Download PDF</a>.</p>
+<object data="https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
