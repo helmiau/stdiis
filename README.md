@@ -48,45 +48,24 @@
 - [Asrama Mahasiswa STDI Imam Syafi'i Jember](http://mhs.stdiis.ac.id/)
   > Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
 
-- Informasi Telegram
-  > Grup Mahasiswa
-  > - [Grup Mahasiswa STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswa Idad Lughawi Pemula STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswa Idad Lughawi Lanjutan STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswa Ilmu Hadits STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswa Akhwal Syakhsiyyah STDIIS Jember](http://www.helmiau.com)
-
-  > Grup Mahasiswi
-  > - [Grup Mahasiswi STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswi Idad Lughawi Pemula STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswi Idad Lughawi Lanjutan STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswi Ilmu Hadits STDIIS Jember](http://www.helmiau.com)
-  > - [Grup Mahasiswi Akhwal Syakhsiyyah STDIIS Jember](http://www.helmiau.com)
-
 - Telegram Channel Informasi Akademik
   > Berisi tentang berbagai informasi terbaru seputar perkuliahan di STDI Imam Syafi'i Jember.
   > 
   > [Ikuti channel](https://t.me/akademik_stdiis).
+  > 
+  > [List Link Grup Telegram per Program Studi dan Jenjang](https://t.me/akademik_stdiis/65).
 
-- Kalender Pendidikan
-  > [Unduh File](http://www.helmiau.com) - [Lihat Secara Online](http://www.helmiau.com) - [Download File APK](https://t.me/akademik_stdiis/372)
+- Kalender Akademik
+  > [Unduh File](https://t.me/c/1292160807/10286) - [Unduh APK](https://t.me/akademik_stdiis/372) - [Lihat Online](https://user-images.githubusercontent.com/20932301/132997205-613753a3-73ea-45c8-8968-c8372512098a.png)
 
 - Jadwal UAS 2021
-  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf) - [Lihat Secara Online](http://www.helmiau.com)
-
-
-<object data="https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf)
 
 - Jadwal Perkuliahan 2021
-  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf) - [Lihat Secara Online](http://www.helmiau.com)
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf)
 
 - Sistem Informasi Kemahasiswaan dan Keasramaan
-  > [Unduh File](https://t.me/akademik_stdiis/356) - [Lihat Secara Online](http://www.helmiau.com)
+  > [Unduh File](https://t.me/akademik_stdiis/356)
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
@@ -500,7 +479,7 @@
 - Mbah GitHub
 - Helmi Amirudin
 
-Ingin berkontribusi ? silahkan klik [link ini](https://github.com/helmiau/stdiis/wiki/Wiki-Kumpulan-Materi-Perkuliahan-STDI-Imam-Syafi'i-Jember) untuk informasi selanjutnya.
+<h3 align="center">Ingin berkontribusi ? silahkan klik <a href="https://github.com/helmiau/stdiis/wiki/Wiki-Kumpulan-Materi-Perkuliahan-STDI-Imam-Syafi'i-Jember">link ini</a> untuk informasi selanjutnya.</h3>
 
 
 <h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan!<br>🤝</h5>
