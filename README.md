@@ -68,7 +68,7 @@
   > [Unduh File](https://t.me/akademik_stdiis/356).
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -87,7 +87,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -106,7 +106,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -125,7 +125,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -144,7 +144,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -163,7 +163,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -182,7 +182,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -201,7 +201,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -220,7 +220,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -239,7 +239,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -258,7 +258,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -277,7 +277,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -296,7 +296,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -315,7 +315,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -334,7 +334,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -353,7 +353,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -372,7 +372,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -391,7 +391,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -410,7 +410,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -429,7 +429,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -448,7 +448,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
@@ -467,7 +467,7 @@
   > - Keterangan Pelajaran
 
 ***
-[Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
+[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)
 
 ***
 
