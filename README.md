@@ -45,8 +45,8 @@
   > - [Situs eLearning STDIIS](https://elearning.stdiis.com/)
   > - [Unduh aplikasi eLearning STDIIS untuk Android](https://t.me/akademik_stdiis/369)
 
-- [Asrama Mahasiswa STDI Imam Syafi'i Jember](http://mhs.stdiis.ac.id/)
-  > Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
+- Asrama Mahasiswa STDI Imam Syafi'i Jember
+  > [Kunjungi situs](http://mhs.stdiis.ac.id/) - Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
 
 - Telegram Channel Informasi Akademik
   > Berisi tentang berbagai informasi terbaru seputar perkuliahan di STDI Imam Syafi'i Jember.
@@ -59,13 +59,7 @@
   > [Unduh File](https://t.me/c/1292160807/10286) - [Unduh APK](https://t.me/akademik_stdiis/372) - [Lihat Online](https://user-images.githubusercontent.com/20932301/132997205-613753a3-73ea-45c8-8968-c8372512098a.png)
 
 - Jadwal UAS 2021
-  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf)
-
-
-<object data="https://github.com/helmiau/stdiis/raw/main/dokumen/Jadwal%20Perkuliahan%202021%20Gasal%20v04.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/helmiau/stdiis/raw/main/dokumen/Jadwal%20Perkuliahan%202021%20Gasal%20v04.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/helmiau/stdiis/raw/main/dokumen/Jadwal%20Perkuliahan%202021%20Gasal%20v04.pdf">Download PDF</a>.</p>
-
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf.
   
 - Jadwal Perkuliahan 2021
   > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf)
