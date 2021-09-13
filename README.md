@@ -59,13 +59,13 @@
   > [Unduh File](https://t.me/c/1292160807/10286) - [Unduh APK](https://t.me/akademik_stdiis/372) - [Lihat Online](https://user-images.githubusercontent.com/20932301/132997205-613753a3-73ea-45c8-8968-c8372512098a.png)
 
 - Jadwal UAS 2021
-  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf.
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf) - [Lihat Online](https://raw.githubusercontent.com/helmiau/stdiis/main/dokumen/Jadwal-Perkuliahan-2021-Gasal%20v04.svg).
   
 - Jadwal Perkuliahan 2021
-  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf)
+  > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf) - [Lihat Online](https://raw.githubusercontent.com/helmiau/stdiis/main/dokumen/Jadwal-UAS-2021-Gasal-v03.svg).
 
 - Sistem Informasi Kemahasiswaan dan Keasramaan
-  > [Unduh File](https://t.me/akademik_stdiis/356)
+  > [Unduh File](https://t.me/akademik_stdiis/356).
 
 ***
 [Kembali ke Daftar Isi](#kumpulan-materi-pdf-perkuliahan-stdi-imam-syafii-jember)
