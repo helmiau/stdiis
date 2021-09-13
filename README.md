@@ -61,6 +61,12 @@
 - Jadwal UAS 2021
   > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf)
 
+
+<object data="https://github.com/helmiau/stdiis/raw/main/dokumen/Jadwal%20Perkuliahan%202021%20Gasal%20v04.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/helmiau/stdiis/raw/main/dokumen/Jadwal%20Perkuliahan%202021%20Gasal%20v04.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/helmiau/stdiis/raw/main/dokumen/Jadwal%20Perkuliahan%202021%20Gasal%20v04.pdf">Download PDF</a>.</p>
+
+  
 - Jadwal Perkuliahan 2021
   > [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf)
 
