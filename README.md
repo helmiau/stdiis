@@ -514,6 +514,13 @@
 ***
 
 
+<h3 align="center">Catatan</h3>
+
+- Situs ini bukan situs resmi STDI Imam Syafi'i.
+- Situs ini dibuat untuk mempermudah akses mahasiswa, agar tidak selalu login melalui e-Learning maupun Telegram.
+- Kontribusi antum sangat dibutuhkan, karena pemilik situs tidak menyediakan file yang tidak dimiliki.
+
+
 <h3 align="center">Kontributor</h3>
 
 - Allah Ta'ala
