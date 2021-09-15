@@ -1,5 +1,5 @@
 ### Tutorial eLearning
-- [Pendaftaran eLearning](#pendaftaran-awal-elearning)
+- [Pendaftaran eLearning](#pendaftaran-elearning)
 - [Mendaftarkan Mata Kuliah Baru](#mendaftarkan-mata-kuliah-baru)
 - [Adab Belajar Daring/Online](#adab-belajar-online)
 - [Pengelompokkan Materi eLearning](#pengelompokan-materi-elearning)
@@ -20,24 +20,35 @@
   <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-4.png" alt="ss" class="center" width="80%" height="auto">
   <br>
 </p>
-  
+
+***
+**[Kembali ke Daftar Isi](#tutorial-elearning)**
+
+***
+
 <h3 align="center">Mendaftarkan Mata Kuliah Baru</h3>
 <p align="center">
   <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-5.png" alt="ss" class="center" width="80%" height="auto">
   <br>
   <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-6.png" alt="ss" class="center" width="80%" height="auto">
   <br>
+</p>
+
+***
+**[Kembali ke Daftar Isi](#tutorial-elearning)**
+
+***
+
+<h3 align="center">Mendaftarkan Mata Kuliah Baru</h3>
+<p align="center">
   <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-7.png" alt="ss" class="center" width="80%" height="auto">
   <br>
   <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-8.png" alt="ss" class="center" width="80%" height="auto">
   <br>
-  <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-9.png" alt="ss" class="center" width="80%" height="auto">
-  <br>
-  <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-adab.png" alt="ss" class="center" width="80%" height="auto">
 </p>
 
 ***
-**[Kembali ke Daftar Isi](#daftar-isi)**
+**[Kembali ke Daftar Isi](#tutorial-elearning)**
 
 ***
 
@@ -48,7 +59,7 @@
 </p>
 
 ***
-**[Kembali ke Daftar Isi](#daftar-isi)**
+**[Kembali ke Daftar Isi](#tutorial-elearning)**
 
 ***
 
@@ -95,7 +106,7 @@
   <br><br>
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-7.jpg" alt="ss" class="center" width="80%" height="auto">
   <br><br>
-  <a>Setelah diubah, silahkan tekan tombol <br>Simpan</b>.</a>
+  <a>Setelah diubah, tekan tombol <b>Simpan</b>.</a>
   <br>
   <a><i>lihat contoh dibawah</i></a>
   <br><br>
@@ -107,31 +118,35 @@
   <br><br>
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-9.jpg" alt="ss" class="center" width="80%" height="auto">
   <br><br>
-  <a>Kunjungi situs <a href="http://elearning.stdiis.com">elearning.stdiis.com</a></a>
+  <a>Ulangi langkah sebelumnya pada mata kuliah yang masih berada dibawah kategori <b>Tida ada kategori mata kuliah</b> </a>
   <br>
   <a><i>lihat contoh dibawah</i></a>
   <br><br>
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-10.jpg" alt="ss" class="center" width="80%" height="auto">
   <br><br>
-  <a>Kunjungi situs <a href="http://elearning.stdiis.com">elearning.stdiis.com</a></a>
+  <a>Setelah seluruh mata kuliah dipindahkan ke kategori <b>Semester 7</b> (lihat kotak merah), sekarang saatnya memindahkan kategori <b>Semester 7</b> ke bagian paling atas dengan menekan <b>tombol panah atas</b> (lihat yang lingkaran biru) dibawah tulisan <b>Semester 7</b>.</a>
   <br>
   <a><i>lihat contoh dibawah</i></a>
   <br><br>
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-11.jpg" alt="ss" class="center" width="80%" height="auto">
   <br><br>
-  <a>Kunjungi situs <a href="http://elearning.stdiis.com">elearning.stdiis.com</a></a>
+  <a>Ulangi langkah diatas hingga <b>tombol panah atas</b> (lihat yang lingkaran biru) dibawah tulisan <b>Semester 7</b> menjadi warna abu-abu, yang artinya kategori tersebut sudah dipindahkan ke bagian paling atas.</a>
+  <br>
+  <a>Mengapa dipindah ke bagian paling atas? Tentu saja untuk lebih memudahkan dan mempercepat akses ketika membuka elearning.</a>
+  <br>
+  <a>Setelah itu, tekan <b>3 garis</b> (lihat lingkaran kuning).</a>
   <br>
   <a><i>lihat contoh dibawah</i></a>
   <br><br>
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-12.jpg" alt="ss" class="center" width="80%" height="auto">
   <br><br>
-  <a>Kunjungi situs <a href="http://elearning.stdiis.com">elearning.stdiis.com</a></a>
+  <a>Pilih <b>Daftar Mata Kuliah Ku</b> untuk melihat perubahan.</a>
   <br>
   <a><i>lihat contoh dibawah</i></a>
   <br><br>
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-13.jpg" alt="ss" class="center" width="80%" height="auto">
   <br><br>
-  <a>Kunjungi situs <a href="http://elearning.stdiis.com">elearning.stdiis.com</a></a>
+  <a>Maka, kategori baru sudah muncul dan berada di posisi paling atas.</a>
   <br>
   <a><i>lihat contoh dibawah</i></a>
   <br><br>
@@ -139,7 +154,15 @@
   <br><br>
 </p>
 
-***
-**[Kembali ke Daftar Isi](#daftar-isi)**
+<p align="center">
+  <br><br>
+  <img src="http://github.com/helmiau/stdiis/raw/main/gambar/elearning-new-9.png" alt="ss" class="center" width="80%" height="auto">
+</p>
 
 ***
+**[Kembali ke Daftar Isi](#tutorial-elearning)**
+
+***
+
+
+<h5 align="center">Situs ini disediakan oleh <a href="http://www.helmiau.com">Helmi Amirudin</a><br>Terima Kasih, Jazakumullah khairan!<br>🤝</h5>
