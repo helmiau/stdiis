@@ -1,3 +1,14 @@
+### Daftar Isi
+- [Penggunaan Awal eLearning](#penggunaan-awal-elearning)
+- [Adab Belajar Daring/Online](#adab-belajar-online)
+- [Pengelompokkan Materi eLearning](#pengelompokan-materi-elearning)
+
+***
+
+- [Kembali ke Halaman Utama](http://www.helmiau.com/stdiis)
+
+***
+
 <h3 align="center">Penggunaan Awal eLearning</h3>
 
 <p align="center">Kunjungi situs <a href="http://elearning.stdiis.com">elearning.stdiis.com</a></p>
@@ -23,6 +34,9 @@
 </p>
 
 ***
+**[Kembali ke Daftar Isi](#daftar-isi)**
+
+***
 
 <h3 align="center">Adab Belajar Online</h3>
 
@@ -31,8 +45,11 @@
 </p>
 
 ***
+**[Kembali ke Daftar Isi](#daftar-isi)**
 
-<h3 align="center">Cara Pengelompokan Materi eLearning</h3>
+***
+
+<h3 align="center">Pengelompokan Materi eLearning</h3>
 
 <p align="center">
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-1.jpg" alt="ss" class="center" width="80%" height="auto">
@@ -64,3 +81,8 @@
   <img src="https://github.com/helmiau/stdiis/raw/main/gambar/elearning-group-14.jpg" alt="ss" class="center" width="80%" height="auto">
   <br>
 </p>
+
+***
+**[Kembali ke Daftar Isi](#daftar-isi)**
+
+***
