@@ -44,6 +44,7 @@
   > eLearning merupakan situs yang berisi daftar mata kuliah STDI Imam Syafi'i Jember.
   - [Situs eLearning STDIIS](https://elearning.stdiis.com/)
   - [Unduh aplikasi eLearning STDIIS untuk Android](https://t.me/akademik_stdiis/369)
+  - [Tutorial eLearning](http://www.helmiau.com/stdiis/halaman/elearning)
 
 - Asrama Mahasiswa STDI Imam Syafi'i Jember
   [Kunjungi situs](http://mhs.stdiis.ac.id/) - Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
