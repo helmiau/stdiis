@@ -76,17 +76,13 @@
 
 ### Idad Lughawi A - Persiapan Bahasa Pemula
 
-- (IL8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IL8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IL8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IL8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IL8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/1) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILA)**
 
@@ -97,17 +93,13 @@
 
 ### Idad Lughawi B - Persiapan Bahasa Lanjutan
 
-- (IL8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IL8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IL8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IL8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IL8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/2) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILB)**
 
@@ -118,17 +110,13 @@
 
 ### Ilmu Hadits Semester 1
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/3) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH1)**
 
@@ -139,17 +127,13 @@
 
 ### Ilmu Hadits Semester 2
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/4) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH2)**
 
@@ -160,17 +144,13 @@
 
 ### Ilmu Hadits Semester 3
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/5) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH3)**
 
@@ -181,17 +161,13 @@
 
 ### Ilmu Hadits Semester 4
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/6) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH4)**
 
@@ -202,17 +178,13 @@
 
 ### Ilmu Hadits Semester 5
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul  - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/7) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH5)**
 
@@ -223,17 +195,13 @@
 
 ### Ilmu Hadits Semester 6
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/8) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH6)**
 
@@ -244,17 +212,13 @@
 
 ### Ilmu Hadits Semester 7
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH2701) Hadits Ahkam 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
+  > - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*
+  > - Materi 1 - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.pdf)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/9) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH7)**
 
@@ -265,17 +229,13 @@
 
 ### Ilmu Hadits Semester 8
 
-- (IH8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (IH8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (IH8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (IH8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/10) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH8)**
 
@@ -286,17 +246,13 @@
 
 ### Akhwal Syakhsiyyah Semester 1
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/11) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS1)**
 
@@ -307,17 +263,13 @@
 
 ### Akhwal Syakhsiyyah Semester 2
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/12) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS2)**
 
@@ -328,17 +280,13 @@
 
 ### Akhwal Syakhsiyyah Semester 3
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/13) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS3)**
 
@@ -349,17 +297,13 @@
 
 ### Akhwal Syakhsiyyah Semester 4
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/14) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS4)**
 
@@ -370,17 +314,13 @@
 
 ### Akhwal Syakhsiyyah Semester 5
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/15) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS5)**
 
@@ -391,17 +331,13 @@
 
 ### Akhwal Syakhsiyyah Semester 6
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/16) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS6)**
 
@@ -412,17 +348,13 @@
 
 ### Akhwal Syakhsiyyah Semester 7
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/17) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS7)**
 
@@ -433,17 +365,13 @@
 
 ### Akhwal Syakhsiyyah Semester 8
 
-- (AS8210) Matkul A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) Matkul B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Matkul C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/18) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS8)**
 
@@ -475,17 +403,13 @@
 
 ### TOAFL
 
-- (AS8210) File A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) File B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Pedoman C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
 
@@ -496,17 +420,13 @@
 
 ### File Lainnya
 
-- (AS8210) File A - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8211) Matkul A - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
-- (AS8211) File B - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
-
-- (AS8212) Pedoman C - *[Unduh File](http://www.helmiau.com)*
-  > Diampu oleh **Ust. Fulan**
-  > - Keterangan Pelajaran
+- (AS8212) Matkul B - **Ust. Fulan**
+  > - Nama File - *[Unduh File](http://www.helmiau.com)*
+  > - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 ***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
