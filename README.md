@@ -47,7 +47,8 @@
   - [Tutorial eLearning](http://www.helmiau.com/stdiis/halaman/elearning)
 
 - Asrama Mahasiswa STDI Imam Syafi'i Jember
-  [Kunjungi situs](http://mhs.stdiis.ac.id/) - Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
+   > Situs yang dikhususkan untuk urusan asrama mahasiswa/mahasiswi STDI Imam Syafi'i Jember.
+   - [Kunjungi situs](http://mhs.stdiis.ac.id/)
 
 - Telegram Channel Informasi Akademik
   > Berisi tentang berbagai informasi terbaru seputar perkuliahan di STDI Imam Syafi'i Jember.
