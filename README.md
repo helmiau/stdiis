@@ -68,9 +68,9 @@
 - Sistem Informasi Kemahasiswaan dan Keasramaan
   [Unduh File](https://t.me/akademik_stdiis/356).
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/19) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/akademik)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -85,9 +85,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/1) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILA)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -102,9 +102,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/2) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILB)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -119,9 +119,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/3) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH1)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -136,9 +136,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/4) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH2)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -153,9 +153,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/5) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH3)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -170,9 +170,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/6) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH4)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -187,9 +187,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/7) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH5)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -204,9 +204,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/8) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH6)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -228,9 +228,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/9) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH7)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -245,9 +245,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/10) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH8)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -262,9 +262,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/11) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS1)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -279,9 +279,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/12) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS2)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -296,9 +296,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/13) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS3)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -313,9 +313,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/14) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS4)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -330,9 +330,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/15) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS5)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -347,9 +347,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/16) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS6)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -364,9 +364,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/17) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS7)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -381,9 +381,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/18) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS8)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -402,9 +402,9 @@
 
 - Tahfidz Semester 8 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/lainnya/Tahfidz-8-STDIIS.pdf)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -419,9 +419,9 @@
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
+***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
 
-***
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -484,9 +484,17 @@
 
 <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png" alt="ss" class="center" width="150px">
 
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
+- Gambar Masjid Ar-Rahmah - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-full.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-preview.png" alt="ss" class="center" width="150px">
+
+- Gambar Masjid Ar-Rahmah & Asrama Unik - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="150px">
 
 ***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
+
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
@@ -502,6 +510,8 @@
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
 
 ***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
+
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
