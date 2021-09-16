@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="100px">
+  <br>
+  <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="400px">
+</p>
+<br>
+
 ### Kumpulan Materi Perkuliahan STDI Imam Syafi'i Jember
 **Daftar Isi**
 - [Database Akademik](#database-akademik)
