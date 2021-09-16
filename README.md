@@ -21,6 +21,7 @@
 - [Akhwal Syakhsiyyah Semester 8](#akhwal-syakhsiyyah-semester-8)
 - [Tahfidz](#tahfidz)
 - [TOAFL](#toafl)
+- [Kumpulan Logo STDIISJ](#kumpulan-logo)
 
 ***
 
@@ -417,6 +418,71 @@
 - (AS8212) Matkul B - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
+
+***
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Kumpulan Logo
+
+- Logo STDI Imam Syafi'i Jember - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="150px">
+
+- Logo Prodi Ilmu Hadits - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png" alt="ss" class="center" width="150px">
+
+- Logo P3M - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png" alt="ss" class="center" width="150px">
+
+- Logo Daksos - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png" alt="ss" class="center" width="150px">
+
+- Logo BEM - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png" alt="ss" class="center" width="150px">
+
+- Logo Rijal Riset - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png" alt="ss" class="center" width="150px">
+
+- Logo Lorong Faradisa - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png" alt="ss" class="center" width="150px">
+
+- Logo HSI - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png" alt="ss" class="center" width="150px">
+
+- Logo HSI Peduli - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png" alt="ss" class="center" width="150px">
+
+- Logo Mufland - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png" alt="ss" class="center" width="150px">
+
+- Logo Wisata Keluarga STDIIS - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png" alt="ss" class="center" width="150px">
+
+- Logo ASILHA - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png" alt="ss" class="center" width="150px">
+
+- Logo SRB (Syafiq Riza Basalamah) - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg" alt="ss" class="center" width="150px">
+
+- Logo Samase - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png" alt="ss" class="center" width="150px">
 
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
 
