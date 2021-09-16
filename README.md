@@ -448,6 +448,19 @@
 
 <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png" alt="ss" class="center" width="150px">
 
+- Logo KKN
+  - *[Unduh File PNG Warna](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png)*
+  - *[Unduh File PNG Putih](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Putih.png)*
+  - *[Unduh File PNG Hitam](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Hitam.png)*
+  - *[Unduh File AI Illustrator](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Illustrator.ai)*
+  - *[Unduh File AFDESIGN Affinity Designer](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-AffinityDesigner.afdesign)*
+  - *[Unduh File PSD Photoshop](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Photoshop.psd)*
+  - *[Unduh File SVG Inkscape](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Inkscape.svg)*
+  - *[Unduh File CDR X14 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x14.cdr)*
+  - *[Unduh File CDR X19 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x19.cdr)*
+
+<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png" alt="ss" class="center" width="150px">
+
 - Logo Rijal Riset - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png)*
 
 <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png" alt="ss" class="center" width="150px">
