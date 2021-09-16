@@ -227,9 +227,8 @@
 - (IH2607) KAJIAN SUNAN IBNU MAJAH - **Nandang Husni Azizi, S.Ud**
   - Ta'rif bil Kitab - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/takrif-kitab-sunan-ibnu-majah.pdf)*
 
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+- (IH2601) QAWAID AL TAFSIR - **Sabilul Muhtadin, Lc, M.H**
+  - Pertemuan 1 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Pertemuan-1-almbady-alaashr.pdf) - [Rekaman](https://www.youtube.com/watch?v=DBHHJYw1pUg)*
 
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
