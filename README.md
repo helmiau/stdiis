@@ -43,6 +43,10 @@
 
 ### Database Akademik
 
+- Situs Penerimaan Mahasiswa Baru STDIIS
+  > Situs ini digunakan sebagai tempat pendaftaran sekaligus penerimaan mahasiswa baru STDI Imam Syafi'i Jember.
+  - [Kunjungi situs PMB STDIIS](https://pmb.stdiis.ac.id/)
+
 - Sisita STDIIS
   > Sisita merupakan situs informasi mahasiswa STDI Imam Syafi'i Jember, gunakan salah satu link dibawah ini jika yang link lainnya tidak tersedia :
   - [Sisita Ac.ID](https://sisita.stdiis.ac.id/) - sudah tidak di perbarui.
