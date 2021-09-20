@@ -5,6 +5,7 @@
 </p>
 <br>
 
+
 ### Kumpulan Materi Perkuliahan STDI Imam Syafi'i Jember
 **Daftar Isi**
 - [Database Akademik](#database-akademik)
@@ -37,7 +38,6 @@
 - [Mau ikut kontribusi ?](#kontributor)
 
 ***
-
 
 <br>
 
@@ -81,425 +81,6 @@
 
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/19) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/akademik)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Idad Lughawi A - Persiapan Bahasa Pemula
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IL8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IL8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/1) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILA)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Idad Lughawi B - Persiapan Bahasa Lanjutan
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IL8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IL8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/2) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILB)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 1
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/3) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH1)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 2
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/4) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH2)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 3
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/5) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH3)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 4
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/6) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH4)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 5
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/7) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH5)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 6
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/8) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH6)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 7
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
-  - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*
-  - Materi 1 - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.pdf)*
-
-- (IH2607) KAJIAN SUNAN IBNU MAJAH - **Nandang Husni Azizi, S.Ud**
-  - Ta'rif bil Kitab - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/takrif-kitab-sunan-ibnu-majah.pdf)*
-
-- (IH2601) QAWAID AL TAFSIR - **Sabilul Muhtadin, Lc, M.H**
-  - Pertemuan 1 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Pertemuan-1-almbady-alaashr.pdf) - [Rekaman](https://www.youtube.com/watch?v=DBHHJYw1pUg)*
-
-- (IH6306) ILMU BALAGHAH - **Ahmad Husaini, BA, M.H**
-  - Balaghah Muyassarah - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Balaghah-Muyassaroh.pdf)*
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/9) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH7)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Ilmu Hadits Semester 8
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IH8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IH8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/10) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH8)**
 
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
@@ -833,6 +414,434 @@
 
 ***
 
+### Ilmu Hadits Semester 1
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IH8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/3) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH1)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 2
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IH8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/4) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH2)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 3
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IH8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/5) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH3)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 4
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IH8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/6) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH4)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 7
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
+  - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*
+  - Materi 1 - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.pdf)*
+
+- (IH2607) KAJIAN SUNAN IBNU MAJAH - **Nandang Husni Azizi, S.Ud**
+  - Ta'rif bil Kitab - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/takrif-kitab-sunan-ibnu-majah.pdf)*
+
+- (IH2601) QAWAID AL TAFSIR - **Sabilul Muhtadin, Lc, M.H**
+  - Pertemuan 1 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Pertemuan-1-almbady-alaashr.pdf) - [Rekaman](https://www.youtube.com/watch?v=DBHHJYw1pUg)*
+
+- (IH6306) ILMU BALAGHAH - **Ahmad Husaini, BA, M.H**
+  - Balaghah Muyassarah - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Balaghah-Muyassaroh.pdf)*
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/7) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH5)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 6
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IH8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/8) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH6)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 7
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
+  - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*
+  - Materi 1 - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mtn-ahadyth-alahkam-ahadyth-algnayat-al-alataam.pdf)*
+
+- (IH2607) KAJIAN SUNAN IBNU MAJAH - **Nandang Husni Azizi, S.Ud**
+  - Ta'rif bil Kitab - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/takrif-kitab-sunan-ibnu-majah.pdf)*
+
+- (IH2601) QAWAID AL TAFSIR - **Sabilul Muhtadin, Lc, M.H**
+  - Pertemuan 1 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Pertemuan-1-almbady-alaashr.pdf) - [Rekaman](https://www.youtube.com/watch?v=DBHHJYw1pUg)*
+
+- (IH6306) ILMU BALAGHAH - **Ahmad Husaini, BA, M.H**
+  - Balaghah Muyassarah - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Balaghah-Muyassaroh.pdf)*
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/9) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH7)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Ilmu Hadits Semester 8
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IH8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IH8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/10) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH8)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Idad Lughawi A - Persiapan Bahasa Pemula
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IL8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IL8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/1) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILA)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Idad Lughawi B - Persiapan Bahasa Lanjutan
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IL8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IL8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/2) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILB)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
 ### Tahfidz
 
 - Tahfidz Semester 3 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/lainnya/Tahfidz-3-STDIIS.pdf)*
@@ -871,38 +880,6 @@
 
 ***
 
-### Kumpulan Logo
-
-- Jadwal Perkuliahan
-
-| Nama Logo | Preview | Link |
-| :-------: | :-----: | :--: |
-| STDI Imam Syafi'i Jember | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png)* |
-| Prodi Ilmu Hadits | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png)* |
-| P3M | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png)* |
-| Daksos | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png)* |
-| BEM | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png)* |
-| KKN | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG Warna](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png)*<br><br>*[Unduh File PNG Putih](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Putih.png)*<br><br>*[Unduh File PNG Hitam](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Hitam.png)*<br><br>*[Unduh File AI Illustrator](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Illustrator.ai)*<br><br>*[Unduh File AFDESIGN Affinity Designer](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-AffinityDesigner.afdesign)*<br><br>*[Unduh File PSD Photoshop](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Photoshop.psd)*<br><br>*[Unduh File SVG Inkscape](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Inkscape.svg)*<br><br>*[Unduh File CDR X14 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x14.cdr)*<br><br>*[Unduh File CDR X19 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x19.cdr)*<br><br> |
-| Rijal Riset | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png)* |
-| Lorong Faradisa | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png)* |
-| HSI | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png)* |
-| HSI Peduli | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png)* |
-| Mufland | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png)* |
-| Wisata Keluarga STDIIS | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png)* |
-| ASILHA | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png)* |
-| SRB (Syafiq Riza Basalamah) | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg)* |
-| SAMASE | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png)* |
-| Masjid Ar-Rahmah | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-preview.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-full.png)* |
-| Masjid Ar-Rahmah & Asrama Unik | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png)* |
-<!-- | NAMALOGO | PREV | LINK | -->
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
 ### File Lainnya
 
 - (-) Nahwu Mudah
@@ -919,6 +896,8 @@
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
+diperbarui pada : 2021-09-20 14:29:45
+
 
 
 <h3 align="center">Catatan</h3>
