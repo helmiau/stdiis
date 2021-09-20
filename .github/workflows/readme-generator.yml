@@ -28,7 +28,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@main
 
+      - name: Generate current time
+        id: waktu
+        run: |
+          echo "::set-output name=waktu::$(date +'%Y-%m-%d')"
+
       - name: Generate latest README.md file
+        id: generate
         run: |
           ls -R
           cat "" > "README.md"
@@ -58,13 +64,29 @@ jobs:
           cat "halaman/LAIN.md" >> "README.md"
           cat "" >> "README.md"
           cat "" >> "README.md"
-          cat "> Diperbarui tanggal : $(date +%Y.%m.%d)" >> "README.md"
+          cat "> diperbarui pada : ${{ steps.waktu.outputs.waktu }} >> "README.md"
           cat "" >> "README.md"
           cat "halaman/FOOTER.md" >> "README.md"
           echo "RELEASE_NAME=README STDIISJ" >> $GITHUB_ENV
           echo "TAG_NAME=stdiisj" >> $GITHUB_ENV
 
-      - name: Release and Upload Assets
+      - name: Delete Older Releases and Tags
+        uses: dev-drprasad/delete-older-releases@v0.2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          keep_latest: 0
+          delete_tags: true
+          delete_tag_pattern: ${{ env.TAG_NAME }}
+
+      - name: Waiting 20 secs for deleting releases
+        id: tunggu
+        run: |
+          sleep 20
+          echo "::set-output name=status::success"
+
+      - name: Upload Updates to GitHub Actions
+        if: steps.tunggu.outputs.status == 'success' && !cancelled()
         uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -74,7 +96,7 @@ jobs:
           draft: false
           prerelease: false
           files: "README.md"
-          body: "diperbarui tanggal : $(date +%Y.%m.%d)"
+          body: "diperbarui pada : ${{ steps.waktu.outputs.waktu }}"
           
       - name: Delete Workflow Runs
         uses: GitRML/delete-workflow-runs@main
