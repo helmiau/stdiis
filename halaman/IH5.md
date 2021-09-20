@@ -1,5 +1,5 @@
 
-### Ilmu Hadits Semester 7
+### Ilmu Hadits Semester 5
 
 - Jadwal Perkuliahan Putra
 
