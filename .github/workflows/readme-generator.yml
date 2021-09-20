@@ -71,8 +71,7 @@ jobs:
           cat " diperbarui pada : ${{ steps.waktu.outputs.waktu }} >> "README.md"
           cat >> "README.md"
           cat "halaman/FOOTER.md" >> "README.md"
-          # cat "README.md"
-          echo "==== View README After Update END"
+          
 
       - name: Delete Older Releases and Tags
         uses: dev-drprasad/delete-older-releases@v0.2.0
