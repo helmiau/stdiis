@@ -1,0 +1,82 @@
+#=================================================
+# Description: Generate Rule Provider for Clash
+# Script by helmiau.com
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/'
+# Run setiap 2 jam sekali
+# curl -sL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/README.md | grep "blackmatrix7/ios_rule_script/tree/master/rule/Clash" | sed -e 's/ //g' -e 's/|/\n/g' -e 's#https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/#rule_name: #iIg' -e 's#(#bukaan#g' -e 's#)##g' | sed '/^[[:space:]]*$/d' | sed 's/^.*\(rule_name.*\).*$/\1/' | sed 's#rule_name#          - rule_name#g' > include-rule.yaml
+# Run setiap 2 jam sekali
+#=================================================
+
+name: Helmi STDIIS README Generator
+
+on:
+  workflow_dispatch:
+#  schedule:
+#    - cron: 0 15 * * *
+#  watch:
+#    types: started
+
+#env:
+#  SUMBER: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/${{ matrix.rule_name }}/${{ matrix.rule_name }}.yaml
+#  TZ: Asia/Jakarta
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Generate latest README.md file
+        run: |
+          ls -R
+          cat "" > "README.md"
+          cat "halaman/HEADER.md" >> "README.md"
+          cat "halaman/DAFTARISI.md" >> "README.md"
+          cat "halaman/AKADEMIK.md" >> "README.md"
+          cat "halaman/AS1.md" >> "README.md"
+          cat "halaman/AS2.md" >> "README.md"
+          cat "halaman/AS3.md" >> "README.md"
+          cat "halaman/AS4.md" >> "README.md"
+          cat "halaman/AS5.md" >> "README.md"
+          cat "halaman/AS6.md" >> "README.md"
+          cat "halaman/AS7.md" >> "README.md"
+          cat "halaman/AS8.md" >> "README.md"
+          cat "halaman/IH1.md" >> "README.md"
+          cat "halaman/IH2.md" >> "README.md"
+          cat "halaman/IH3.md" >> "README.md"
+          cat "halaman/IH4.md" >> "README.md"
+          cat "halaman/IH5.md" >> "README.md"
+          cat "halaman/IH6.md" >> "README.md"
+          cat "halaman/IH7.md" >> "README.md"
+          cat "halaman/IH8.md" >> "README.md"
+          cat "halaman/ILA.md" >> "README.md"
+          cat "halaman/ILB.md" >> "README.md"
+          cat "halaman/TAHFIZ.md" >> "README.md"
+          cat "halaman/TOAFL.md" >> "README.md"
+          cat "halaman/LAIN.md" >> "README.md"
+          cat "" >> "README.md"
+          cat "" >> "README.md"
+          cat "> Diperbarui tanggal : $(date +%Y.%m.%d)" >> "README.md"
+          cat "" >> "README.md"
+          cat "halaman/FOOTER.md" >> "README.md"
+          echo "RELEASE_NAME=HelmiSTDIISJ $(date +%Y.%m.%d)" >> $GITHUB_ENV
+          echo "TAG_NAME=stdiisj-$(date +%Y.%m.%d)" >> $GITHUB_ENV
+
+      - name: Release and Upload Assets
+        uses: softprops/action-gh-release@v1
+        with:
+          name: ${{ env.RELEASE_NAME }}
+          tag_name: ${{ env.TAG_NAME }}
+          draft: false
+          prerelease: false
+          files: "README.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Delete Workflow Runs
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          retain_days: 1
+          keep_minimum_runs: 3
