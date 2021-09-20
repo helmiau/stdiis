@@ -73,8 +73,6 @@ jobs:
           cat "halaman/FOOTER.md" >> "README.md"
           # cat "README.md"
           echo "==== View README After Update END"
-          echo "::set-output name=release_name::README"
-          echo "::set-output name=tag_name::stdiisj"
 
       - name: Delete Older Releases and Tags
         uses: dev-drprasad/delete-older-releases@v0.2.0
@@ -83,7 +81,7 @@ jobs:
         with:
           keep_latest: 0
           delete_tags: true
-          delete_tag_pattern: ${{ steps.generate.outputs.tag_name }}
+          delete_tag_pattern: stdiisj
 
       - name: Waiting 20 secs for deleting releases
         id: tunggu
@@ -97,8 +95,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: ${{ steps.generate.outputs.release_name }}
-          tag_name: ${{ steps.generate.outputs.tag_name }}
+          name: README-STDIIS
+          tag_name: stdiisj
           draft: false
           prerelease: false
           files: "README.md"
