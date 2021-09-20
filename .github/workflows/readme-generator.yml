@@ -65,10 +65,8 @@ jobs:
           cat halaman/TAHFIZ.md >> README.md
           cat halaman/TOAFL.md >> README.md
           cat halaman/LAIN.md >> README.md
-          cat "" >> README.md
-          cat "" >> README.md
+          ls -R
           cat "diperbarui pada : ${{ steps.waktu.outputs.waktu }}" >> README.md
-          cat "" >> README.md
           cat halaman/FOOTER.md >> README.md
           cat README.md
           echo -e "==== View README After Update END"
