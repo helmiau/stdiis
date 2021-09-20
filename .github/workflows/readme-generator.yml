@@ -36,9 +36,9 @@ jobs:
       - name: Generate latest README.md file
         id: generate
         run: |
-          echo "==== View README Before Update"
+          echo -e '==== View README Before Update'
           # cat "README.md"
-          echo "==== View README After Update"
+          echo -e '==== View README After Update'
           rm "README.md"
           ls
           cat > "README.md"
@@ -68,10 +68,11 @@ jobs:
           cat "halaman/LAIN.md" >> "README.md"
           cat >> "README.md"
           cat >> "README.md"
-          cat " diperbarui pada : ${{ steps.waktu.outputs.waktu }} >> "README.md"
+          cat "diperbarui pada : ${{ steps.waktu.outputs.waktu }}" >> "README.md"
           cat >> "README.md"
           cat "halaman/FOOTER.md" >> "README.md"
-          
+          cat "README.md"
+          echo -e "==== View README After Update END"
 
       - name: Delete Older Releases and Tags
         uses: dev-drprasad/delete-older-releases@v0.2.0
