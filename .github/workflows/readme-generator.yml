@@ -99,7 +99,15 @@ jobs:
           prerelease: false
           files: "README.md"
           body: "diperbarui pada : ${{ steps.waktu.outputs.waktu }}"
-          
+
+      - name: Update GitHub page data
+        if: steps.tunggu.outputs.status == 'success' && !cancelled()
+        uses: test-room-7/action-update-file@v1.5.0
+        with:
+          commit-msg: "Update README.md ${{ steps.waktu.outputs.waktu }}"
+          file-path: "README.md"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Delete Workflow Runs
         uses: GitRML/delete-workflow-runs@main
         with:
