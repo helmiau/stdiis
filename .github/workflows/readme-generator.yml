@@ -66,6 +66,7 @@ jobs:
           cat halaman/TAHFIZ.md >> README.md
           cat halaman/TOAFL.md >> README.md
           cat halaman/LAIN.md >> README.md
+          echo -e "diperbarui pada : ${{ steps.waktu.outputs.waktu }}" >> README.md
           cat halaman/FOOTER.md >> README.md
           ls -R
           # cat README.md
