@@ -88,6 +88,30 @@
 
 ### Idad Lughawi A - Persiapan Bahasa Pemula
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (IL8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -104,6 +128,30 @@
 ***
 
 ### Idad Lughawi B - Persiapan Bahasa Lanjutan
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (IL8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -122,6 +170,30 @@
 
 ### Ilmu Hadits Semester 1
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -138,6 +210,30 @@
 ***
 
 ### Ilmu Hadits Semester 2
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -156,6 +252,30 @@
 
 ### Ilmu Hadits Semester 3
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -172,6 +292,30 @@
 ***
 
 ### Ilmu Hadits Semester 4
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -190,6 +334,30 @@
 
 ### Ilmu Hadits Semester 5
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -207,6 +375,30 @@
 
 ### Ilmu Hadits Semester 6
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -223,6 +415,30 @@
 ***
 
 ### Ilmu Hadits Semester 7
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
   - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*
@@ -250,6 +466,30 @@
 
 ### Ilmu Hadits Semester 8
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -266,6 +506,30 @@
 ***
 
 ### Akhwal Syakhsiyyah Semester 1
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -284,6 +548,30 @@
 
 ### Akhwal Syakhsiyyah Semester 2
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -300,6 +588,30 @@
 ***
 
 ### Akhwal Syakhsiyyah Semester 3
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -318,6 +630,30 @@
 
 ### Akhwal Syakhsiyyah Semester 4
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -334,6 +670,30 @@
 ***
 
 ### Akhwal Syakhsiyyah Semester 5
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -352,6 +712,30 @@
 
 ### Akhwal Syakhsiyyah Semester 6
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -369,6 +753,30 @@
 
 ### Akhwal Syakhsiyyah Semester 7
 
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
@@ -385,6 +793,30 @@
 ***
 
 ### Akhwal Syakhsiyyah Semester 8
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -441,82 +873,28 @@
 
 ### Kumpulan Logo
 
-- Logo STDI Imam Syafi'i Jember - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png)*
+- Jadwal Perkuliahan
 
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="150px">
-
-- Logo Prodi Ilmu Hadits - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png" alt="ss" class="center" width="150px">
-
-- Logo P3M - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png" alt="ss" class="center" width="150px">
-
-- Logo Daksos - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png" alt="ss" class="center" width="150px">
-
-- Logo BEM - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png" alt="ss" class="center" width="150px">
-
-- Logo KKN
-  - *[Unduh File PNG Warna](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png)*
-  - *[Unduh File PNG Putih](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Putih.png)*
-  - *[Unduh File PNG Hitam](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Hitam.png)*
-  - *[Unduh File AI Illustrator](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Illustrator.ai)*
-  - *[Unduh File AFDESIGN Affinity Designer](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-AffinityDesigner.afdesign)*
-  - *[Unduh File PSD Photoshop](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Photoshop.psd)*
-  - *[Unduh File SVG Inkscape](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Inkscape.svg)*
-  - *[Unduh File CDR X14 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x14.cdr)*
-  - *[Unduh File CDR X19 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x19.cdr)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png" alt="ss" class="center" width="150px">
-
-- Logo Rijal Riset - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png" alt="ss" class="center" width="150px">
-
-- Logo Lorong Faradisa - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png" alt="ss" class="center" width="150px">
-
-- Logo HSI - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png" alt="ss" class="center" width="150px">
-
-- Logo HSI Peduli - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png" alt="ss" class="center" width="150px">
-
-- Logo Mufland - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png" alt="ss" class="center" width="150px">
-
-- Logo Wisata Keluarga STDIIS - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png" alt="ss" class="center" width="150px">
-
-- Logo ASILHA - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png" alt="ss" class="center" width="150px">
-
-- Logo SRB (Syafiq Riza Basalamah) - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg" alt="ss" class="center" width="150px">
-
-- Logo Samase - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png" alt="ss" class="center" width="150px">
-
-- Gambar Masjid Ar-Rahmah - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-full.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-preview.png" alt="ss" class="center" width="150px">
-
-- Gambar Masjid Ar-Rahmah & Asrama Unik - *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png)*
-
-<img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="150px">
+| Nama Logo | Preview | Link |
+| :-------: | :-----: | :--: |
+| STDI Imam Syafi'i Jember | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png)* |
+| Prodi Ilmu Hadits | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png)* |
+| P3M | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png)* |
+| Daksos | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png)* |
+| BEM | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-bem.png)* |
+| KKN | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG Warna](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Warna.png)*<br><br>*[Unduh File PNG Putih](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Putih.png)*<br><br>*[Unduh File PNG Hitam](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Hitam.png)*<br><br>*[Unduh File AI Illustrator](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Illustrator.ai)*<br><br>*[Unduh File AFDESIGN Affinity Designer](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-AffinityDesigner.afdesign)*<br><br>*[Unduh File PSD Photoshop](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Photoshop.psd)*<br><br>*[Unduh File SVG Inkscape](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-Inkscape.svg)*<br><br>*[Unduh File CDR X14 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x14.cdr)*<br><br>*[Unduh File CDR X19 CorelDRAW](https://github.com/helmiau/stdiis/releases/download/lainnya/Logo-KKN-x19.cdr)*<br><br> |
+| Rijal Riset | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-rijal-riset.png)* |
+| Lorong Faradisa | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-lorong-faradisa.png)* |
+| HSI | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi.png)* |
+| HSI Peduli | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-hsi-peduli.png)* |
+| Mufland | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-mufland.png)* |
+| Wisata Keluarga STDIIS | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-wisata-keluarga-stdiis.png)* |
+| ASILHA | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-asilha.png)* |
+| SRB (Syafiq Riza Basalamah) | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-syafiq-riza-basalamah-srb.jpg)* |
+| SAMASE | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png)* |
+| Masjid Ar-Rahmah | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-preview.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-full.png)* |
+| Masjid Ar-Rahmah & Asrama Unik | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png)* |
+<!-- | NAMALOGO | PREV | LINK | -->
 
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
