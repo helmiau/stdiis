@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 2021-09-20 15:11:15
+diperbarui pada : 2021-09-20 15:17:46
 
 </h5>
 <br>
@@ -583,7 +583,7 @@ diperbarui pada : 2021-09-20 15:11:15
 
 ***
 
-### Ilmu Hadits Semester 7
+### Ilmu Hadits Semester 5
 
 - Jadwal Perkuliahan Putra
 
