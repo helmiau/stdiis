@@ -31,17 +31,17 @@ jobs:
       - name: Generate current time
         id: waktu
         run: |
-          echo "::set-output name=waktu::$(date +'%Y-%m-%d')"
+          echo "::set-output name=waktu::$(date +'%Y-%m-%d_T%H:%M:%S')"
 
       - name: Generate latest README.md file
         id: generate
         run: |
-          echo -e '==== View README Before Update'
+          # echo -e '==== View README Before Update'
           # cat README.md
-          echo -e '==== View README After Update'
+          # echo -e '==== View README After Update'
           [ -e README.md ] && rm README.md
           [ -e halaman/README.md ] && rm halaman/README.md
-          ls
+          # ls
           mv halaman/HEADER.md README.md
           cat halaman/DAFTARISI.md >> README.md
           cat halaman/AKADEMIK.md >> README.md
@@ -68,9 +68,9 @@ jobs:
           cat halaman/LAIN.md >> README.md
           echo -e "diperbarui pada : ${{ steps.waktu.outputs.waktu }}" >> README.md
           cat halaman/FOOTER.md >> README.md
-          ls -R
+          # ls -R
           # cat README.md
-          echo -e "==== View README After Update END"
+          # echo -e "==== View README After Update END"
 
       - name: Delete Older Releases and Tags
         uses: dev-drprasad/delete-older-releases@v0.2.0
