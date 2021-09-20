@@ -46,6 +46,8 @@ jobs:
           echo -e "diperbarui pada : ${{ steps.waktu.outputs.waktu }}" >> README.md
           cat halaman/DAFTARISI.md >> README.md
           cat halaman/AKADEMIK.md >> README.md
+          cat halaman/ILA.md >> README.md
+          cat halaman/ILB.md >> README.md
           cat halaman/AS1.md >> README.md
           cat halaman/AS2.md >> README.md
           cat halaman/AS3.md >> README.md
@@ -62,8 +64,6 @@ jobs:
           cat halaman/IH6.md >> README.md
           cat halaman/IH7.md >> README.md
           cat halaman/IH8.md >> README.md
-          cat halaman/ILA.md >> README.md
-          cat halaman/ILB.md >> README.md
           cat halaman/TAHFIZ.md >> README.md
           cat halaman/TOAFL.md >> README.md
           cat halaman/LAIN.md >> README.md
