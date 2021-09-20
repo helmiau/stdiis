@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8" />
+	<!-- Title bar -->
+	<title>Kepentingan Kuliah by Helmi Amirudin</title>
+	<!-- Add icon link -->
+	<link rel = "icon" href ="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" type = "image/x-icon" >
+</head>
+</html>
 <p align="center">
   <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="10%">
   <br>
@@ -6,7 +16,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 2021-09-20 15:17:46
+diperbarui pada : 2021-09-20 15:34:58
 
 </h5>
 <br>
@@ -86,6 +96,88 @@ diperbarui pada : 2021-09-20 15:17:46
 
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/19) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/akademik)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Idad Lughawi A - Persiapan Bahasa Pemula
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IL8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IL8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/1) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILA)**
+
+**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+
+***
+
+### Idad Lughawi B - Persiapan Bahasa Lanjutan
+
+- Jadwal Perkuliahan Putra
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- Jadwal Perkuliahan Putri
+
+| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
+| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
+| Senin | 
+| Selasa | 
+| Rabu | 
+| Kamis | 
+| Jum'at | 
+| Sabtu | 
+| Ahad | 
+
+- (IL8211) Matkul A - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+- (IL8212) Matkul B - **Ust. Fulan**
+  - Nama File - *[Unduh File](http://www.helmiau.com)*
+  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
+
+***
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/2) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILB)**
 
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
@@ -765,88 +857,6 @@ diperbarui pada : 2021-09-20 15:17:46
 
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/10) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/IH8)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Idad Lughawi A - Persiapan Bahasa Pemula
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IL8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IL8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/1) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILA)**
-
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
-
-***
-
-### Idad Lughawi B - Persiapan Bahasa Lanjutan
-
-- Jadwal Perkuliahan Putra
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- Jadwal Perkuliahan Putri
-
-| Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
-| :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
-
-- (IL8211) Matkul A - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-- (IL8212) Matkul B - **Ust. Fulan**
-  - Nama File - *[Unduh File](http://www.helmiau.com)*
-  - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
-
-***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/2) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/ILB)**
 
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
