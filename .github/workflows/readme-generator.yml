@@ -37,7 +37,7 @@ jobs:
         id: generate
         run: |
           echo "==== View README Before Update"
-          cat "README.md"
+          # cat "README.md"
           echo "==== View README After Update"
           rm "README.md"
           ls
@@ -71,9 +71,9 @@ jobs:
           cat " diperbarui pada : ${{ steps.waktu.outputs.waktu }} >> "README.md"
           cat >> "README.md"
           cat "halaman/FOOTER.md" >> "README.md"
-          cat "README.md"
+          # cat "README.md"
           echo "==== View README After Update END"
-          echo "::set-output name=release_name::README STDIISJ"
+          echo "::set-output name=release_name::README"
           echo "::set-output name=tag_name::stdiisj"
 
       - name: Delete Older Releases and Tags
