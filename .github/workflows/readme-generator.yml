@@ -41,7 +41,7 @@ jobs:
           echo -e '==== View README After Update'
           [ -e README.md ] && rm README.md
           ls
-          cat halaman/HEADER.md > README.md
+          mv halaman/HEADER.md README.md
           cat halaman/DAFTARISI.md >> README.md
           cat halaman/AKADEMIK.md >> README.md
           cat halaman/AS1.md >> README.md
