@@ -25,11 +25,13 @@ jobs:
         uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Asia/Jakarta"
+          timezoneMacos: "Asia/Jakarta"
+          timezoneWindows: "Indonesia Standard Time"
 
       - name: Generate current time
         id: waktu
         run: |
-          echo "::set-output name=waktu::$(date +'%Y-%m-%d_T%H:%M:%S')"
+          echo "::set-output name=waktu::$(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: Generate latest README.md file
         id: generate
