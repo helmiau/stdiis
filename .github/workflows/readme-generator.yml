@@ -61,19 +61,20 @@ jobs:
           cat "> Diperbarui tanggal : $(date +%Y.%m.%d)" >> "README.md"
           cat "" >> "README.md"
           cat "halaman/FOOTER.md" >> "README.md"
-          echo "RELEASE_NAME=HelmiSTDIISJ $(date +%Y.%m.%d)" >> $GITHUB_ENV
-          echo "TAG_NAME=stdiisj-$(date +%Y.%m.%d)" >> $GITHUB_ENV
+          echo "RELEASE_NAME=README STDIISJ" >> $GITHUB_ENV
+          echo "TAG_NAME=stdiisj" >> $GITHUB_ENV
 
       - name: Release and Upload Assets
         uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           name: ${{ env.RELEASE_NAME }}
           tag_name: ${{ env.TAG_NAME }}
           draft: false
           prerelease: false
           files: "README.md"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          body: "diperbarui tanggal : $(date +%Y.%m.%d)"
           
       - name: Delete Workflow Runs
         uses: GitRML/delete-workflow-runs@main
