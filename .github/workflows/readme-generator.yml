@@ -37,9 +37,10 @@ jobs:
         id: generate
         run: |
           echo -e '==== View README Before Update'
-          cat README.md
+          # cat README.md
           echo -e '==== View README After Update'
           [ -e README.md ] && rm README.md
+          [ -e halaman/README.md ] && rm halaman/README.md
           ls
           mv halaman/HEADER.md README.md
           cat halaman/DAFTARISI.md >> README.md
@@ -65,10 +66,9 @@ jobs:
           cat halaman/TAHFIZ.md >> README.md
           cat halaman/TOAFL.md >> README.md
           cat halaman/LAIN.md >> README.md
-          ls -R
-          cat "diperbarui pada : ${{ steps.waktu.outputs.waktu }}" >> README.md
           cat halaman/FOOTER.md >> README.md
-          cat README.md
+          ls -R
+          # cat README.md
           echo -e "==== View README After Update END"
 
       - name: Delete Older Releases and Tags
