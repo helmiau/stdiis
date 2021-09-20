@@ -4,7 +4,12 @@
   <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="40%">
 </p>
 <br>
+<h5 align="center">
 
+diperbarui pada : 2021-09-20 14:47:41
+
+</h5>
+<br>
 
 ### Kumpulan Materi Perkuliahan STDI Imam Syafi'i Jember
 **Daftar Isi**
@@ -896,7 +901,6 @@
 **[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
 
 ***
-diperbarui pada : 2021-09-20 14:29:45
 
 
 
