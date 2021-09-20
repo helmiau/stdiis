@@ -1,10 +1,7 @@
 #=================================================
-# Description: Generate Rule Provider for Clash
+# Description: Generate README.md by merging multiple files
 # Script by helmiau.com
-# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/'
-# Run setiap 2 jam sekali
-# curl -sL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/README.md | grep "blackmatrix7/ios_rule_script/tree/master/rule/Clash" | sed -e 's/ //g' -e 's/|/\n/g' -e 's#https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/#rule_name: #iIg' -e 's#(#bukaan#g' -e 's#)##g' | sed '/^[[:space:]]*$/d' | sed 's/^.*\(rule_name.*\).*$/\1/' | sed 's#rule_name#          - rule_name#g' > include-rule.yaml
-# Run setiap 2 jam sekali
+# https://github.com/helmiau/stdiis
 #=================================================
 
 name: Helmi STDIIS README Generator
@@ -16,10 +13,6 @@ on:
 #  watch:
 #    types: started
 
-#env:
-#  SUMBER: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/${{ matrix.rule_name }}/${{ matrix.rule_name }}.yaml
-#  TZ: Asia/Jakarta
-
 jobs:
   Build:
     runs-on: ubuntu-latest
@@ -27,6 +20,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@main
+        
+      - name: Set timezone to WIB Jakarta
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Asia/Jakarta"
 
       - name: Generate current time
         id: waktu
