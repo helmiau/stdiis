@@ -25,8 +25,6 @@
 | Sabtu |
 | Ahad |
 
-- (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
-
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
   - Nama File 2 - *[Unduh File](http://www.helmiau.com)*
