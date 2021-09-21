@@ -31,7 +31,7 @@ jobs:
       - name: Generate current time
         id: waktu
         run: |
-          echo "::set-output name=waktu::$(date +'%dddd, %d %MMMM %Y %H:%M:%S')"
+          echo "::set-output name=waktu::$(date +'%d %m %Y %H:%M:%S')"
 
       - name: Generate latest README.md file
         id: generate
