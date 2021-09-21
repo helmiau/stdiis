@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 21 09 2021 22:01:29
+diperbarui pada : 21 09 2021 22:04:52
 
 </h5>
 <br>
@@ -728,8 +728,6 @@ diperbarui pada : 21 09 2021 22:01:29
 | Jum'at |
 | Sabtu |
 | Ahad |
-
-- (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
 
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
