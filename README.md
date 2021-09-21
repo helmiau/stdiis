@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 2021-09-20 15:53:28
+diperbarui pada : 21ddd, 21 17MMM 2021 08:17:45
 
 </h5>
 <br>
@@ -16,14 +16,6 @@ diperbarui pada : 2021-09-20 15:53:28
 - [Database Akademik](#database-akademik)
 - [Idad Lughawi A - Persiapan Bahasa Pemula](#idad-lughawi-a---persiapan-bahasa-pemula)
 - [Idad Lughawi B - Persiapan Bahasa Lanjutan](#idad-lughawi-b---persiapan-bahasa-lanjutan)
-- [Ilmu Hadits Semester 1](#ilmu-hadits-semester-1)
-- [Ilmu Hadits Semester 2](#ilmu-hadits-semester-2)
-- [Ilmu Hadits Semester 3](#ilmu-hadits-semester-3)
-- [Ilmu Hadits Semester 4](#ilmu-hadits-semester-4)
-- [Ilmu Hadits Semester 5](#ilmu-hadits-semester-5)
-- [Ilmu Hadits Semester 6](#ilmu-hadits-semester-6)
-- [Ilmu Hadits Semester 7](#ilmu-hadits-semester-7)
-- [Ilmu Hadits Semester 8](#ilmu-hadits-semester-8)
 - [Akhwal Syakhsiyyah Semester 1](#akhwal-syakhsiyyah-semester-1)
 - [Akhwal Syakhsiyyah Semester 2](#akhwal-syakhsiyyah-semester-2)
 - [Akhwal Syakhsiyyah Semester 3](#akhwal-syakhsiyyah-semester-3)
@@ -32,6 +24,14 @@ diperbarui pada : 2021-09-20 15:53:28
 - [Akhwal Syakhsiyyah Semester 6](#akhwal-syakhsiyyah-semester-6)
 - [Akhwal Syakhsiyyah Semester 7](#akhwal-syakhsiyyah-semester-7)
 - [Akhwal Syakhsiyyah Semester 8](#akhwal-syakhsiyyah-semester-8)
+- [Ilmu Hadits Semester 1](#ilmu-hadits-semester-1)
+- [Ilmu Hadits Semester 2](#ilmu-hadits-semester-2)
+- [Ilmu Hadits Semester 3](#ilmu-hadits-semester-3)
+- [Ilmu Hadits Semester 4](#ilmu-hadits-semester-4)
+- [Ilmu Hadits Semester 5](#ilmu-hadits-semester-5)
+- [Ilmu Hadits Semester 6](#ilmu-hadits-semester-6)
+- [Ilmu Hadits Semester 7](#ilmu-hadits-semester-7)
+- [Ilmu Hadits Semester 8](#ilmu-hadits-semester-8)
 - [Tahfidz](#tahfidz)
 - [TOAFL](#toafl)
 - [Kumpulan Logo STDIISJ](#kumpulan-logo)
@@ -179,25 +179,34 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 06.00 | NAS2107 | BAHASA ARAB | 3 | AS1-pa-A | RB.04 | M. Hafid Mahmudi, S. Pd., M. Pd. | 03/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 07.00 | NAS2112 | USHUL FIKIH | 3 | AS1-pa-C | online | Irsan, S.H, M.H | 08/01/2022 SABTU 07.30 – 09.30 |
+| Senin | 07.00 | NAS2107 | BAHASA ARAB | 3 | AS1-pa-D | online | Dr. Ridho Abdillah, M.Ed | 03/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 08.55 | STD2101 | HIFZHUL QUR'AN 1 | 2 | AS1-pa-A | RB.04 | Alexsander Bahar. B.A. | - |
+| Senin | 09.45 | NAS2107 | BAHASA ARAB | 3 | AS1-pa-B | RB.07 | Ahmad Husaini, BA, M.H | 03/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 09.45 | NAS2107 | BAHASA ARAB | 3 | AS1-pa-C | online | Dr. Ridho Abdillah, M.Ed | 03/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 10.50 | NAS2102 | KEWARGANEGARAAN | 2 | AS1-pa-A | RB.04 | Dr. Irfan Yuhadi, MSI | 04/01/2022 SELASA 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | NAS2112 | USHUL FIKIH | 3 | AS1-pi-A | R.Kls 1 | Misbahuzzulam, Lc. M.H.I | 08/01/2022 SABTU 07.30 – 09.30 |
+| Senin | 07.00 | NAS2112 | USHUL FIKIH | 3 | AS1-pi-B | online | Khalid Saifullah, Lc, MA | 08/01/2022 SABTU 07.30 – 09.30 |
+| Senin | 10.50 | STD2104 | AL IMAN | 2 | AS1-pi-A | R.Kls 1 |  Dr. Muhammad Nur Ihsan, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 10.50 | NAS2101 | PANCASILA | 2 | AS1-pi-B | online | Nurul Budi Murtini, S.Si, M.S.I | 05/01/2022 RABU 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -220,25 +229,25 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -261,25 +270,33 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | AS16307 | MAQASHID SYARIAH | 2 | AS3-pa-A | RB.10 | Arif Husnul Khuluq, S.H, M.H | 11/01/2022 SELASA 10.00 – 12.00 |
+| Senin | 07.00 | AS16301 | TAUHID ASMA WA SHIFAT | 2 | AS3-pa-B | online | Dr. Roy Grafika Penataran, Lc, MA | 10/01/2022 SENIN 10.00 – 12.00 |
+| Senin | 07.00 | AS16305 | AKHLAK ISLAMIYAH | 2 | AS3-pa-C | online | Dr. Syafiq Riza Hasan, M.A | 03/01/2022 SENIN 10.00 – 12.10 |
+| Senin | 08.55 | AS16307 | MAQASHID SYARIAH | 2 | AS3-pa-B | online | Arif Husnul Khuluq, S.H, M.H | 11/01/2022 SELASA 10.00 – 12.00 |
+| Senin | 08.55 | AS16303 | FIQIH ZAKAT | 2 | AS3-pa-C | online | Muhammad Nurul Fahmi, S.H., M.H | 05/01/2022 RABU 10.00 – 12.00 |
+| Senin | 09.45 | AS16308 | HUKUM PERADILAN ISLAM | 3 | AS3-pa-A | RB.10 Muhammad Yassir, Lc, M.H | 08/01/2022 SABTU 10.00 – 12.00 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | AS16308 | HUKUM PERADILAN ISLAM | 3 | AS3-pi-A | R.Kls 2 | Khoirul Ahsan, BA | 08/01/2022 SABTU 10.00 – 12.00 |
+| Senin | 07.00 | AS16303 | FIQIH ZAKAT | 2 | AS3-pi-B | online | Muhammad Nurul Fahmi, S.H., M.H | 05/01/2022 RABU 10.00 – 12.00 |
+| Senin | 09.45 | AS16308 | HUKUM PERADILAN ISLAM | 3 | AS3-pi-B | online | Khoirul Ahsan, BA | 08/01/2022 SABTU 10.00 – 12.00 |
+| Senin | 10.50 | AS16305 | AKHLAK ISLAMIYAH | 2 | AS3-pi-A | R.Kls 2 | Dr. Syafiq Riza Hasan, M.A | 03/01/2022 SENIN 10.00 – 12.10 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -343,25 +360,31 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | AS16505 | METODE PENGAJARAN | 2 | AS5-pa-A | RB.14 | Dr. Irfan Yuhadi, MSI | 07/01/2022 JUMAT 07.30 – 09.30 |
+| Senin | 09.45 | AS16508 | USHUL FIQIH 5 | 3 | AS5-pa-A | RB.14 | Misbahuzzulam, Lc. M.H.I | 10/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 09.45 | AS16508 | USHUL FIQIH 5 | 3 | AS5-pa-B | online | Dr. Musyaffa, Lc, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 06.00 | AS16507 | HUKUM PERKAWINAN ISLAM 1 | 3 | AS5-pi | online | Dr. Muhammad Arifin Badri, M.A | 04/01/2022 SELASA 07.30 – 09.30 |
+| Senin | 09.45 | AS16508 | USHUL FIQIH 5 | 3 | AS5-pi | online | Khalid Saifullah, Lc, MA | 10/01/2022 SENIN 07.30 – 09.30 |
+| Senin |
+| Senin |
+| Senin |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -425,25 +448,26 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | AS16705 | USHUL FIQIH 7 | 2 | AS7-pa-A | RB.16 | Dr. Musyaffa, Lc, M.A | 10/01/2022 SENIN 10.00 – 12.00 |
+| Senin | 10.50 | AS16610 | ILMU MANTIQ | 2 | AS7-pa-A | RB.16 | Dr. Muhammad Arifin Badri, M.A | 05/01/2022 RABU 10.00 – 12.00 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -507,25 +531,35 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | IH21104 | MUSTHALAH AL-HADITS | 2 | IH1-pa-A | RB.11 | Nur Kholis, Lc. M.Th.I. | 08/01/2022 SABTU 07.30 – 09.30 |
+| Senin | 07.00 | STD2101 | HIFZHUL QUR'AN 1 | 2 | IH1-pa-B | online | Alexsander Bahar. B.A. | - |
+| Senin | 07.00 | IH21106 | ILMU RUWAT AL-HADITS 1 | 2 | IH1-pa-C | online | Hendri Waluyo Lensa, Lc, M.Hum | 05/01/2022 RABU 07.30 – 09.30 |
+| Senin | 08.55 | IH21106 | ILMU RUWAT AL-HADITS 1 | 2 | IH1-pa-A | RB.11 | Hendri Waluyo Lensa, Lc, M.Hum | 05/01/2022 RABU 07.30 – 09.30 |
+| Senin | 08.55 | IH21104 | MUSTHALAH AL-HADITS | 2 | IH1-pa-B | online | Nur Kholis, Lc. M.Th.I. | 08/01/2022 SABTU 07.30 – 09.30 |
+| Senin | 08.55 | STD2105 | ILMU TAUHID | 2 | IH1-pa-C | online | Dr. Muhammad Nur Ihsan, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 10.50 | IH21105 | KAJIAN SAHIH BUKHARI | 2 | IH1-pa-A | RB.11 | Dr. Roy Grafika Penataran, Lc, MA | 06/01/2022 KAMIS 07.30 – 09.30 |
+| Senin | 10.50 | IH21105 | KAJIAN SAHIH BUKHARI | 2 | IH1-pa-B | online | Dr. Sofyan Baswedan, MA. | 06/01/2022 KAMIS 07.30 – 09.30 |
+| Senin | 10.50 | IH21104 | MUSTHALAH AL-HADITS  | 2 | IH1-pa-C | online | Nur Kholis, Lc. M.Th.I. | 08/01/2022 SABTU 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin |
+| Senin |
+| Senin |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -589,25 +623,29 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | IH2207 | KAJIAN SAHIH MUSLIM | 2 | IH3-pa-A | RB.12 | Dr. Emha Hasan Ayatullah Asy'ari, M.A | 11/01/2022 SELASA 10.00 – 12.00 |
+| Senin | 08.55 | IH1301 | AQIDAH ISLAMIYAH | 2 | IH3-pa-A | RB.12 | Dr. Ali Musri Semjan Putra, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Senin | 08.55 | IH2207 | KAJIAN SAHIH MUSLIM | 2 | IH3-pa-B | online | Dr. Emha Hasan Ayatullah Asy'ari, M.A | 11/01/2022 SELASA 10.00 – 12.00 |
+| Senin | 10.50 | IH1301 | AQIDAH ISLAMIYAH | 2 | IH3-pa-B | online | Dr. Ali Musri Semjan Putra, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | IH3305 | ILMU NAHWU 2 | 2 | IH3-pi | online | Nisa Fitriani, BA. | 08/01/2022 SABTU 10.00 – 12.00 |
+| Senin | 08.55 | IH2308 | MA'ANIL HADITS | 3 | IH3-pi | online | Haekal Basyarahil, Lc, M.A | 13/01/2022 KAMIS 10.00 – 12.00 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (IH8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
@@ -671,25 +709,25 @@ diperbarui pada : 2021-09-20 15:53:28
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | IH1501 | AL-IMAN 2 | 2 | IH5-pa | online | Dr. Muhammad Nur Ihsan, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 08.55 | IH3506 | METODOLOGI PENELITIAN HADITS | 2 | IH5-pi | online | Dr. Sofyan Baswedan, MA. | 08/01/2022 SABTU 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
   - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*
