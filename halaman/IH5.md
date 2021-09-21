@@ -5,25 +5,25 @@
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | IH1501 | AL-IMAN 2 | 2 | IH5-pa | online | Dr. Muhammad Nur Ihsan, M.A | 10/01/2022 SENIN 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 08.55 | IH3506 | METODOLOGI PENELITIAN HADITS | 2 | IH5-pi | online | Dr. Sofyan Baswedan, MA. | 08/01/2022 SABTU 07.30 – 09.30 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (IH2701) HADITS AHKAM 1 - **Dr. Emha Hasan Ayatullah Asy'ari, M.A**
   - Mufrodatul Manhaj - *[Unduh DOCX](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.docx)* - *[Unduh PDF](https://github.com/helmiau/stdiis/releases/download/IH7/mfrdat-almnhg-lahadyth-alahkam.pdf)*

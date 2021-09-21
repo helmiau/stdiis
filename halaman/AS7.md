@@ -5,25 +5,26 @@
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin | 07.00 | AS16705 | USHUL FIQIH 7 | 2 | AS7-pa-A | RB.16 | Dr. Musyaffa, Lc, M.A | 10/01/2022 SENIN 10.00 – 12.00 |
+| Senin | 10.50 | AS16610 | ILMU MANTIQ | 2 | AS7-pa-A | RB.16 | Dr. Muhammad Arifin Badri, M.A | 05/01/2022 RABU 10.00 – 12.00 |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - Jadwal Perkuliahan Putri
 
 | Hari | Waktu | Kode | Nama Mata Kuliah | SKS | Kelas | Ruang | Nama Dosen Pengampu | Jadwal UAS |
 | :--: | :---: | :--: | :--------------: | :-: | :---: | :---: | :-----------------: | :--------: |
-| Senin | 
-| Selasa | 
-| Rabu | 
-| Kamis | 
-| Jum'at | 
-| Sabtu | 
-| Ahad | 
+| Senin |
+| Selasa |
+| Rabu |
+| Kamis |
+| Jum'at |
+| Sabtu |
+| Ahad |
 
 - (AS8211) Matkul A - **Ust. Fulan**
   - Nama File - *[Unduh File](http://www.helmiau.com)*
