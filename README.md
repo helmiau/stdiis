@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 22 09 2021 13:51:30
+diperbarui pada : 22 09 2021 13:55:52
 
 </h5>
 <br>
@@ -103,7 +103,7 @@ Kumpulan Materi Perkuliahan
 - Nama_Istilah : Keterangan
 
 ***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)**
 
 **[Kembali ke Daftar Isi](#daftar-isi)**
 
@@ -118,7 +118,7 @@ Kumpulan Materi Perkuliahan
   - Jadilah yang terbaik bagi lingkungan disekitar antum terlebih dahulu, insyaallah Allah akan tingkatkan ke kemanfaatan antum di kemudian hari.
 
 ***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)**
 
 **[Kembali ke Daftar Isi](#daftar-isi)**
 
@@ -133,7 +133,7 @@ Kumpulan Materi Perkuliahan
   - Hafalkan kosa kata bahasa arab dan indonesia sebanyak mungkin, itu akan sangat memudahkan antum di kemudian hari.
 
 ***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)**
 
 **[Kembali ke Daftar Isi](#daftar-isi)**
 
@@ -148,7 +148,7 @@ Kumpulan Materi Perkuliahan
   - Biasakan antum untuk mengamalkan sunnah Nabi, agar Allah barokahi ilmu antum.
 
 ***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)**
 
 **[Kembali ke Daftar Isi](#daftar-isi)**
 
@@ -163,7 +163,7 @@ Kumpulan Materi Perkuliahan
   - Antum kalau bosan, futur dari belajar, coba antum belajar hal lain dan biasakan, insyaallah nanti terbiasa refreshing belajar dengan belajar.
 
 ***
-**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)
+**[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20)**
 
 **[Kembali ke Daftar Isi](#daftar-isi)**
 
