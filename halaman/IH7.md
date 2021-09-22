@@ -38,6 +38,8 @@
   - Ta'rif bil Kitab - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/takrif-kitab-sunan-ibnu-majah.pdf)*
   - Mufrodatul Manhaj - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Silabus.Kajian.Sunan.Ibnu.Majah.pdf)*
   - Pembagian Tugas Bahts - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/pembagian-hadits-sunan-ibnu-majah.pdf)*
+  - Dirosatul Hadits Sanadan wa Matnan - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/dirosath-hadits-sanadan-wa-matnan.pdf)*
+  - Kayfiyatu Dirosatil Hadits - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/kafiat_dirasat_hadith_n1.pdf)*
 
 - (IH2601) QAWAID AL TAFSIR - **Sabilul Muhtadin, Lc, M.H**
   - Pertemuan 1 - *[Unduh File](https://github.com/helmiau/stdiis/releases/download/IH7/Pertemuan-1-almbady-alaashr.pdf) - [Rekaman](https://www.youtube.com/watch?v=DBHHJYw1pUg)*
