@@ -25,6 +25,8 @@ Kumpulan Logo dan Gambar yang sering digunakan di kampus STDI Imam Syafi'i Jembe
 | SAMASE | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-samase.png)* |
 | Masjid Ar-Rahmah | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-preview.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/masjid-arrohmah-full.png)* |
 | Masjid Ar-Rahmah & Asrama Unik | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/gb_pembukaan.png)* |
+
+
 <!-- | NAMALOGO | PREV | LINK | -->
 
 ***
