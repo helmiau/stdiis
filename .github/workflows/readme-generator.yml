@@ -69,6 +69,7 @@ jobs:
           cat halaman/IH8.md >> README.md
           cat halaman/TAHFIZ.md >> README.md
           cat halaman/TOAFL.md >> README.md
+          cat halaman/LOGOSTDIIS.md >> README.md
           cat halaman/LAIN.md >> README.md
           cat halaman/FOOTER.md >> README.md
           # ls -R
