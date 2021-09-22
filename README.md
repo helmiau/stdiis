@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 22 09 2021 13:55:52
+diperbarui pada : 22 09 2021 13:58:17
 
 </h5>
 <br>
@@ -17,6 +17,7 @@ Ahlan wa sahlan, Selamat datang di situs yang membahas seputar perkuliahan di ST
 
 
 <p style="text-align:center;">
+
 <i>
 Apapun program studi yang antum ambil, jalanilah semaksimal mungkin dan hafalkan semua pelajaran yang ada, terlebih hafalan hadits, mutun dan semisalnya. Bisa jadi apa yang antum belum pahami saat itu, insyaallah Allah -subhanahu wa ta'ala- akan pahamkan di kemudian hari karena apa yang antum hafal di masa lalu.
 <br>
@@ -29,6 +30,7 @@ Saudara antum, Helmi Amirudin
 (Mahasiswa Prodi Ilmu Hadits 2018)
 <br>
 </i>
+
 </p>
 
 
