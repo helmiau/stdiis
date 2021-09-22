@@ -26,11 +26,12 @@ Saudara antum, Helmi Amirudin
 
 
 
-- Belum ada semangat untuk belajar? [yuk baca motivasi disini](https://helmiau.com), barangkali dapet hidayah gitu ya kan.
+- Belum ada semangat untuk belajar? [yuk baca motivasi disini](#saran-dan-motivasi), barangkali dapet hidayah gitu ya kan.
 - Bingung sama cara pakai eLearning STDI Imam Syafi'i? [baca ini yuk](http://www.helmiau.com/stdiis/halaman/elearning), insyaallah mempermudah antum.
 - Ana ada saran buat ngumpulin tugas biar rapih? kalo mau baca, klik aja [link ini](https://helmiau.com).
-- Ngambil jurusan Akhwal Syakhsiyyah? Baca beberapa saran dari pendahulu antum [disini yuk](https://helmiau.com).
-- Ngambil jurusan Ilmu Hadits? Baca beberapa saran dari pendahulu antum [disini yuk](https://helmiau.com).
+- Ngambil jurusan Idad Lughawi atau Persiapan Bahasa? Baca beberapa saran dari pendahulu antum [disini yuk](#saran-mahasiswa-idad-lughawi).
+- Ngambil jurusan Ilmu Hadits? Baca beberapa saran dari pendahulu antum [disini yuk](#saran-mahasiswa-ilmu-hadits).
+- Ngambil jurusan Akhwal Syakhsiyyah? Baca beberapa saran dari pendahulu antum [disini yuk](#saran-mahasiswa-akhwal-syakhsiyyah).
 
 <!--
 - Antum mahasiswa lama? butuh motivasi biar cepet lulus? [klik disini](https://helmiau.com) untuk lihat contoh skripsi yang sudah kakak tingkat buat. Jangan lupa dibaca-baca ! Biar dapet ide judul skripsi.
