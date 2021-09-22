@@ -30,7 +30,7 @@
 
 - Jadwal UAS 2021
   [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.UAS.2021.Gasal.v03.pdf) - [Lihat Online](https://raw.githubusercontent.com/helmiau/stdiis/main/dokumen/Jadwal-UAS-2021-Gasal-v03.svg).
-  
+
 - Jadwal Perkuliahan 2021
   [Unduh File PDF](https://github.com/helmiau/stdiis/releases/download/akademik/Jadwal.Perkuliahan.2021.Gasal.v04.pdf) - [Lihat Online](https://raw.githubusercontent.com/helmiau/stdiis/main/dokumen/Jadwal-Perkuliahan-2021-Gasal%20v04.svg).
 
@@ -40,6 +40,6 @@
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/19) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/akademik)**
 
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+**[Kembali ke Daftar Isi](#daftar-isi)**
 
 ***

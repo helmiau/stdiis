@@ -30,6 +30,6 @@ Kumpulan Logo dan Gambar yang sering digunakan di kampus STDI Imam Syafi'i Jembe
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/20) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/lainnya)**
 
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+**[Kembali ke Daftar Isi](#daftar-isi)**
 
 ***

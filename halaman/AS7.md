@@ -37,6 +37,6 @@
 ***
 **[Ruang Diskusi](https://github.com/helmiau/stdiis/discussions/17) - [Folder Unduhan](https://github.com/helmiau/stdiis/releases/tag/AS7)**
 
-**[Kembali ke Daftar Isi](#kumpulan-materi-perkuliahan-stdi-imam-syafii-jember)**
+**[Kembali ke Daftar Isi](#daftar-isi)**
 
 ***
