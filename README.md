@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 22 09 2021 14:20:13
+diperbarui pada : 24 09 2021 07:09:58
 
 </h5>
 <br>
@@ -129,8 +129,8 @@ Kumpulan Materi Perkuliahan
 
 ### Saran Mahasiswa Idad Lughawi
 
-- dari **Fulan** hafizahullah
-  - Hafalkan kosa kata bahasa arab dan indonesia sebanyak mungkin, itu akan sangat memudahkan antum di kemudian hari.
+- dari **Muchammad Chanif Setiawan** (Mahasiswa Program Studi Ilmu Hadits) hafizahullah
+  - Cara terbaik belajar bahasa Arab adalah memahami bahasa Arab sebagaimana yang dipahami orang arab, bukan bahasa terjemahan Indonesia ke Arab yang merusak pemahaman bahasa Arab pemula.
 
 - dari **Fulan** hafizahullah
   - Hafalkan kosa kata bahasa arab dan indonesia sebanyak mungkin, itu akan sangat memudahkan antum di kemudian hari.
