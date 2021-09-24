@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 24 09 2021 07:09:58
+diperbarui pada : 24 09 2021 07:11:33
 
 </h5>
 <br>
@@ -114,8 +114,8 @@ Kumpulan Materi Perkuliahan
 
 ### Saran dan Motivasi
 
-- dari **Fulan** hafizahullah
-  - Jadilah yang terbaik bagi lingkungan disekitar antum terlebih dahulu, insyaallah Allah akan tingkatkan ke kemanfaatan antum di kemudian hari.
+- dari **Muchammad Chanif Setiawan** (Mahasiswa Prodi Hadits) hafizahullah
+  - Jangan belajar banyak-banyak, tapi belajarlah dengan baik.
 
 - dari **Fulan** hafizahullah
   - Jadilah yang terbaik bagi lingkungan disekitar antum terlebih dahulu, insyaallah Allah akan tingkatkan ke kemanfaatan antum di kemudian hari.
