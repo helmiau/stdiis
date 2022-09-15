@@ -6,7 +6,7 @@
 <br>
 <h5 align="center">
 
-diperbarui pada : 16 09 2022 04:33:55
+diperbarui pada : 16 09 2022 06:22:58
 
 </h5>
 <br>
@@ -1054,7 +1054,6 @@ Kumpulan Materi Perkuliahan
 
 Kumpulan Logo dan Gambar yang sering digunakan di kampus STDI Imam Syafi'i Jember
 
-- Jadwal Perkuliahan
 
 | Nama Logo | Preview | Link |
 | :-------: | :-----: | :--: |
