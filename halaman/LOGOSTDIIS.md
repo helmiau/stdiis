@@ -4,7 +4,6 @@
 
 Kumpulan Logo dan Gambar yang sering digunakan di kampus STDI Imam Syafi'i Jember
 
-- Jadwal Perkuliahan
 
 | Nama Logo | Preview | Link |
 | :-------: | :-----: | :--: |
