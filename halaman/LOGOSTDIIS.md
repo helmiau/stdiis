@@ -9,7 +9,8 @@ Kumpulan Logo dan Gambar yang sering digunakan di kampus STDI Imam Syafi'i Jembe
 | Nama Logo | Preview | Link |
 | :-------: | :-----: | :--: |
 | STDI Imam Syafi'i Jember | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-stdiis.png)* |
-| Prodi Ilmu Hadits | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png)* |
+| Program Studi Ilmu Hadits | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodihadis.png)* |
+| Program Studi Hukum Keluarga Islam | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodi-hki.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-prodi-hki.png)* |
 | P3M | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-p3m.png)* |
 | Daksos | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-daksos.png)* |
 | FOKUS | <img src="http://github.com/helmiau/stdiis/releases/download/lainnya/logo-fokus.png" alt="ss" class="center" width="150px"> | *[Unduh File PNG](https://github.com/helmiau/stdiis/releases/download/lainnya/logo-fokus.png)* |
